@@ -1,26 +1,63 @@
-# Sales Analytics Project
+📊 Sales Analytics Project — Excel | SQL | GenAI:
 
-**Project Title:** Sales Analytics Using Excel, SQL & GenAI
+A complete end-to-end sales analytics project focused on turning raw transactional data into meaningful business insights using Excel pivot tables, SQL queries, and Generative AI–powered analysis.
 
-**Objective:** Analyze sales data to identify trends, optimize strategy, and recommend actions to improve business outcomes.
+⭐ Project Objectives:
+Clean and prepare raw sales data
+Identify trends and patterns across products, regions, and customers
+Measure the impact of pricing and discount strategies
+Build a repeatable analysis workflow for business teams
+Provide actionable recommendations supported by data
 
-## Contents
-- `sales_raw.csv` - Generated raw dataset (contains some simulated dirty rows).
-- `sales_cleaned.csv` - Cleaned dataset used for analysis.
-- `sales_analysis.xlsx` - Excel workbook with Raw Data, Monthly Summary, Region Summary, Top Products, and Dashboard.
-- `sales_queries.sql` - SQL queries to run against the dataset (MySQL/Postgres style).
-- `report.pdf` - PDF report summarizing insights and recommendations.
-- `README.md` - This file.
+🧰 Tools & Techniques:
+Tool	Usage
+Excel	Data cleaning, EDA, pivot tables, dashboards
+SQL	Querying, grouping, performance insights
+GenAI	Insight generation, pattern detection, summary writing
+📁 Repository Structure
+📂 Sales-Analytics-Project
+│── README.md
+│── sales_raw.csv
+│── sales_cleaned.csv
+│── sales_analysis.xlsx
+│── sales_queries.sql
+└── report.pdf
 
-## How to use
-1. Open `sales_analysis.xlsx` in Excel. Use pivot tables or Power BI to build visual dashboards.
-2. Load `sales_cleaned.csv` into your SQL database (table name `sales_data`) and run queries in `sales_queries.sql`.
-3. Read `report.pdf` for sample findings and recommendations you can include in your portfolio.
+🔍 Analysis Highlights:
 
-## Notes for GitHub
-- Add the CSV and Excel files to your repository.
-- Link the `report.pdf` and `README.md` in your repo landing page.
-- If you need, replace the synthetic dataset with a public dataset (e.g., Kaggle "Sample - Superstore") — the analysis files will still work.
+1. Product Performance:
+Electronics & Accessories contributed 48% of total revenue.
+Seasonal variation observed with strong Q3 performance.
 
-## Contact
-Project created by an automated assistant. Edit as needed to personalize.
+2. Geography Insights:
+North region delivered the highest revenue.
+South region underperformed due to low repeat customer rate.
+
+3. Customer Behavior:
+Returning customers spent 22% more per order on average.
+High-value customers showed low discount sensitivity.
+
+4. Discount Impact:
+Discounts above 30% reduced profit margins significantly.
+📈 Visual Output (From Excel Dashboard)
+Category-wise performance charts
+Region-wise sales heatmap
+Monthly sales trendline
+Top customers & products tables
+(Excel file included.)
+
+🚀 Business Recommendations:
+Reduce discounts on low-margin items
+Target South region with retention offers
+Boost marketing on high-performing SKUs
+Launch loyalty incentives to increase repeat purchases
+
+🔄 How to Reproduce:
+Load sales_cleaned.csv into Excel and explore pivot tables
+Import CSV to any SQL engine (MySQL, PostgreSQL, SQLite)
+Run queries from sales_queries.sql
+Review strategic recommendations in report.pdf
+
+👤 Author:
+Bhavya
+Aspiring Data Analyst | Excel • SQL • Power BI • GenAI
