@@ -1,0 +1,1202 @@
+OrderID,OrderDate,Customer,Region,Product,Category,UnitPrice,Quantity,Discount,Sales,Cost,Profit
+ORD100486,2024-03-17,Customer_80,West,Webcam HD,Electronics,45.0,2,0.0,90.0,72.0,18.0
+ORD100451,2023-08-25,Customer_24,West,Laptop Stand,Accessories,25.0,2,0.0,50.0,37.5,12.5
+ORD100882,2023-01-07,Customer_106,Central,SSD 1TB,Electronics,110.0,3,0.0,330.0,191.4,138.6
+ORD100468,2023-04-04,Customer_72,West,Notebook,Stationery,3.0,3,0.0,9.0,6.66,2.34
+ORD100020,2023-12-10,Customer_55,North,Office Chair,Furniture,120.0,3,0.0,360.0,230.4,129.6
+ORD100763,2023-12-14,Customer_2,East,Router,Electronics,60.0,1,0.0,60.0,39.0,21.0
+ORD100419,2024-09-11,Customer_22,West,Pen Set,Stationery,5.0,1,0.05,4.75,3.45,1.3
+ORD100792,2024-03-22,Customer_170,South,Webcam HD,Electronics,45.0,3,0.0,135.0,97.2,37.8
+ORD100965,2023-01-26,Customer_128,East,SSD 1TB,Electronics,110.0,1,0.0,110.0,62.7,47.3
+ORD101063,2024-04-22,Customer_97,Central,Bluetooth Speaker,Electronics,55.0,2,0.1,99.0,92.4,6.6
+ORD100595,2023-08-23,Customer_231,East,"Monitor 24""",Electronics,130.0,2,0.0,260.0,221.0,39.0
+ORD100333,2024-03-28,Customer_262,South,Laptop Stand,Accessories,25.0,1,0.0,25.0,17.5,7.5
+ORD100453,2023-07-08,Customer_15,East,USB-C Cable,Electronics,8.0,2,0.0,16.0,10.56,5.44
+ORD100930,2023-10-16,Customer_82,North,Laptop Stand,Accessories,25.0,3,0.0,75.0,42.0,33.0
+ORD100496,2024-10-25,Customer_233,South,External HDD,Electronics,85.0,1,0.0,85.0,47.6,37.4
+ORD100790,2023-12-01,Customer_121,Central,Bluetooth Speaker,Electronics,55.0,2,0.05,104.5,73.7,30.8
+ORD100900,2023-05-06,Customer_286,South,Desk Lamp,Furniture,18.0,3,0.0,54.0,41.04,12.96
+ORD100146,2024-04-29,Customer_239,Central,Webcam HD,Electronics,45.0,1,0.1,40.5,36.45,4.05
+ORD100061,2024-03-03,Customer_20,East,Smartphone Case,Accessories,10.0,3,0.0,30.0,21.0,9.0
+ORD100270,2023-09-11,Customer_63,South,Desk Lamp,Furniture,18.0,3,0.0,54.0,31.32,22.68
+ORD101198,2024-03-04,Customer_231,West,Bluetooth Speaker,Electronics,55.0,2,0.05,104.5,92.4,12.1
+ORD100550,2023-10-06,Customer_243,North,Laptop Stand,Accessories,25.0,5,0.0,125.0,97.5,27.5
+ORD100301,2023-06-12,Customer_267,North,Bluetooth Speaker,Electronics,55.0,3,0.0,165.0,118.8,46.2
+ORD100283,2023-02-23,Customer_177,West,Desk Lamp,Furniture,18.0,2,0.05,34.2,29.16,5.04
+ORD100511,2024-02-01,Customer_73,West,SSD 1TB,Electronics,110.0,3,0.0,330.0,237.6,92.4
+ORD100628,2023-09-09,Customer_44,North,Bluetooth Speaker,Electronics,55.0,3,0.0,165.0,130.35,34.65
+ORD100464,2023-10-12,Customer_72,West,SSD 1TB,Electronics,110.0,2,0.1,198.0,160.6,37.4
+ORD100717,2024-03-25,Customer_199,South,Webcam HD,Electronics,45.0,4,0.0,180.0,109.8,70.2
+ORD100355,2024-08-29,Customer_160,West,External HDD,Electronics,85.0,2,0.05,161.5,93.5,68.0
+ORD100239,2024-08-31,Customer_185,Central,"Monitor 24""",Electronics,130.0,4,0.05,494.0,431.6,62.4
+ORD100400,2023-02-20,Customer_29,North,Notebook,Stationery,3.0,3,0.0,9.0,7.11,1.89
+ORD100265,2023-12-12,Customer_52,West,"Monitor 24""",Electronics,130.0,5,0.1,585.0,370.5,214.5
+ORD100770,2024-03-13,Customer_39,East,Laptop Stand,Accessories,25.0,1,0.0,25.0,18.75,6.25
+ORD101187,2024-07-14,Customer_111,South,"Monitor 24""",Electronics,130.0,5,0.3,455.0,500.5,-45.5
+ORD100658,2023-05-14,Customer_39,North,Smartphone Case,Accessories,10.0,4,0.0,40.0,22.8,17.2
+ORD100439,2023-05-07,Customer_27,East,Notebook,Stationery,3.0,3,0.0,9.0,5.67,3.33
+ORD100402,2024-11-28,Customer_134,West,Pen Set,Stationery,5.0,2,0.0,10.0,7.1,2.9
+ORD100530,2024-02-17,Customer_87,West,Office Chair,Furniture,120.0,2,0.1,216.0,139.2,76.8
+ORD101104,2023-01-23,Customer_136,South,Router,Electronics,60.0,3,0.0,180.0,138.6,41.4
+ORD100305,2024-08-02,Customer_137,South,"Monitor 24""",Electronics,130.0,3,0.1,351.0,226.2,124.8
+ORD101048,2024-09-07,Customer_233,Central,Mechanical Keyboard,Electronics,70.0,1,0.1,63.0,46.2,16.8
+ORD100137,2023-07-26,Customer_98,East,Router,Electronics,60.0,3,0.0,180.0,147.6,32.4
+ORD101012,2024-08-10,Customer_92,West,Wireless Mouse,Electronics,15.0,5,0.0,75.0,55.5,19.5
+ORD100739,2024-02-09,Customer_21,Central,"Monitor 24""",Electronics,130.0,1,0.05,123.5,85.8,37.7
+ORD100651,2023-07-09,Customer_216,Central,Router,Electronics,60.0,3,0.0,180.0,153.0,27.0
+ORD101067,2024-07-03,Customer_277,Central,USB-C Cable,Electronics,8.0,4,0.0,32.0,24.64,7.36
+ORD100701,2023-06-27,Customer_245,Central,"Monitor 24""",Electronics,130.0,1,0.1,117.0,106.6,10.4
+ORD100399,2024-12-27,Customer_7,South,Wireless Mouse,Electronics,15.0,2,0.0,30.0,20.4,9.6
+ORD100398,2023-12-20,Customer_227,South,Laptop Stand,Accessories,25.0,4,0.1,90.0,59.0,31.0
+ORD100856,2023-04-17,Customer_130,North,Desk Lamp,Furniture,18.0,4,0.0,72.0,49.68,22.32
+ORD100874,2023-03-19,Customer_291,Central,Smartphone Case,Accessories,10.0,4,0.0,40.0,28.8,11.2
+ORD100473,2024-03-07,Customer_32,Central,Smartphone Case,Accessories,10.0,3,0.3,21.0,24.3,-3.3
+ORD100537,2024-04-01,Customer_238,North,Pen Set,Stationery,5.0,2,0.0,10.0,6.9,3.1
+ORD100047,2023-01-21,Customer_151,South,Smartphone Case,Accessories,10.0,2,0.3,14.0,15.2,-1.2
+ORD100732,2024-11-19,Customer_153,Central,"Monitor 24""",Electronics,130.0,4,0.15,442.0,426.4,15.6
+ORD100847,2024-12-30,Customer_232,East,"Monitor 24""",Electronics,130.0,6,0.15,663.0,561.6,101.4
+ORD100885,2023-12-29,Customer_55,West,Bluetooth Speaker,Electronics,55.0,7,0.3,269.5,315.7,-46.2
+ORD100870,2024-12-26,Customer_172,East,Notebook,Stationery,3.0,2,0.0,6.0,3.6,2.4
+ORD101072,2023-09-11,Customer_264,South,Pen Set,Stationery,5.0,2,0.3,7.0,6.8,0.2
+ORD100999,2024-09-04,Customer_273,West,External HDD,Electronics,85.0,2,0.1,153.0,142.8,10.2
+ORD101141,2024-03-06,Customer_32,South,Bluetooth Speaker,Electronics,55.0,2,0.0,110.0,91.3,18.7
+ORD100212,2023-01-02,Customer_188,North,Laptop Stand,Accessories,25.0,3,0.05,71.25,48.0,23.25
+ORD101020,2023-09-27,Customer_246,North,"Monitor 24""",Electronics,130.0,5,0.0,650.0,494.0,156.0
+ORD100318,2024-01-10,Customer_90,East,Router,Electronics,60.0,1,0.1,54.0,46.8,7.2
+ORD100327,2023-01-27,Customer_186,North,Desk Lamp,Furniture,18.0,1,0.1,16.2,11.34,4.86
+ORD100335,2024-05-30,Customer_147,North,Bluetooth Speaker,Electronics,55.0,3,0.0,165.0,99.0,66.0
+ORD100695,2023-12-14,Customer_161,North,USB-C Cable,Electronics,8.0,3,0.0,24.0,15.12,8.88
+ORD100768,2023-09-07,Customer_108,North,"Monitor 24""",Electronics,130.0,4,0.15,442.0,410.8,31.2
+ORD101151,2024-06-20,Customer_238,West,"Monitor 24""",Electronics,130.0,5,0.0,650.0,539.5,110.5
+ORD100663,2023-06-22,Customer_151,East,External HDD,Electronics,85.0,4,0.05,323.0,227.8,95.2
+ORD100741,2024-04-20,Customer_117,East,USB-C Cable,Electronics,8.0,4,0.15,27.2,23.04,4.16
+ORD100323,2023-12-31,Customer_114,East,Mechanical Keyboard,Electronics,70.0,2,0.05,133.0,98.0,35.0
+ORD100230,2023-07-03,Customer_269,South,External HDD,Electronics,85.0,2,0.1,153.0,130.9,22.1
+ORD100365,2023-01-18,Customer_13,Central,"Monitor 24""",Electronics,130.0,3,0.1,351.0,296.4,54.6
+ORD100779,2023-10-30,Customer_173,South,Smartphone Case,Accessories,10.0,4,0.1,36.0,28.8,7.2
+ORD100397,2023-04-02,Customer_251,East,Desk Lamp,Furniture,18.0,3,0.1,48.6,44.82,3.78
+ORD100696,2024-11-06,Customer_169,South,USB-C Cable,Electronics,8.0,3,0.05,22.8,16.56,6.24
+ORD100102,2024-10-09,Customer_17,North,Mechanical Keyboard,Electronics,70.0,4,0.0,280.0,196.0,84.0
+ORD101056,2024-07-07,Customer_17,North,Router,Electronics,60.0,3,0.1,162.0,102.6,59.4
+ORD100375,2024-05-04,Customer_233,East,Router,Electronics,60.0,2,0.1,108.0,81.6,26.4
+ORD100068,2023-01-02,Customer_280,North,Office Chair,Furniture,120.0,3,0.1,324.0,262.8,61.2
+ORD100440,2024-01-28,Customer_72,West,USB-C Cable,Electronics,8.0,2,0.1,14.4,13.44,0.96
+ORD101001,2024-07-03,Customer_221,South,Notebook,Stationery,3.0,2,0.0,6.0,4.2,1.8
+ORD100367,2024-07-23,Customer_155,West,"Monitor 24""",Electronics,130.0,3,0.05,370.5,288.6,81.9
+ORD100680,2024-02-19,Customer_136,West,Bluetooth Speaker,Electronics,55.0,3,0.0,165.0,108.9,56.1
+ORD100512,2023-01-12,Customer_223,West,Desk Lamp,Furniture,18.0,4,0.1,64.8,48.24,16.56
+ORD100182,2024-12-10,Customer_198,Central,Notebook,Stationery,3.0,5,0.0,15.0,10.35,4.65
+ORD100878,2024-10-27,Customer_150,South,Router,Electronics,60.0,1,0.0,60.0,33.0,27.0
+ORD101097,2023-03-10,Customer_261,South,Desk Lamp,Furniture,18.0,5,0.0,90.0,55.8,34.2
+ORD101129,2024-12-26,Customer_273,West,Desk Lamp,Furniture,18.0,3,0.0,54.0,37.8,16.2
+ORD101096,2023-10-10,Customer_261,Central,External HDD,Electronics,85.0,2,0.05,161.5,108.8,52.7
+ORD100181,2023-12-25,Customer_215,East,Wireless Mouse,Electronics,15.0,2,0.0,30.0,17.7,12.3
+ORD101014,2024-05-27,Customer_229,North,SSD 1TB,Electronics,110.0,5,0.05,522.5,412.5,110.0
+ORD100457,2023-09-04,Customer_273,North,Smartphone Case,Accessories,10.0,1,0.1,9.0,8.0,1.0
+ORD100532,2024-02-24,Customer_25,South,Mechanical Keyboard,Electronics,70.0,1,0.05,66.5,50.4,16.1
+ORD100263,2023-09-20,Customer_153,South,Bluetooth Speaker,Electronics,55.0,3,0.0,165.0,92.4,72.6
+ORD100015,2023-04-10,Customer_131,East,SSD 1TB,Electronics,110.0,2,0.0,220.0,178.2,41.8
+ORD100521,2024-08-24,Customer_84,North,Webcam HD,Electronics,45.0,1,0.0,45.0,29.25,15.75
+ORD101077,2024-09-26,Customer_69,Central,USB-C Cable,Electronics,8.0,1,0.0,8.0,6.48,1.52
+ORD100994,2023-06-17,Customer_97,South,Bluetooth Speaker,Electronics,55.0,1,0.05,52.25,30.8,21.45
+ORD100281,2024-02-08,Customer_47,North,Wireless Mouse,Electronics,15.0,4,0.0,60.0,49.2,10.8
+ORD100708,2024-12-24,Customer_19,South,Wireless Mouse,Electronics,15.0,3,0.0,45.0,36.45,8.55
+ORD100834,2024-04-10,Customer_167,Central,Desk Lamp,Furniture,18.0,5,0.15,76.5,63.9,12.6
+ORD100007,2024-09-06,Customer_194,South,"Monitor 24""",Electronics,130.0,3,0.1,351.0,296.4,54.6
+ORD100067,2024-01-23,Customer_53,East,External HDD,Electronics,85.0,6,0.0,510.0,295.8,214.2
+ORD100071,2023-04-16,Customer_158,Central,Smartphone Case,Accessories,10.0,6,0.15,51.0,45.0,6.0
+ORD100558,2024-11-29,Customer_4,South,SSD 1TB,Electronics,110.0,2,0.0,220.0,173.8,46.2
+ORD100099,2024-06-04,Customer_42,West,Office Chair,Furniture,120.0,3,0.2,288.0,295.2,-7.2
+ORD101092,2024-02-15,Customer_139,East,External HDD,Electronics,85.0,5,0.1,382.5,267.75,114.75
+ORD100431,2024-10-20,Customer_162,East,Wireless Mouse,Electronics,15.0,3,0.15,38.25,33.3,4.95
+ORD100322,2023-08-18,Customer_81,Central,Smartphone Case,Accessories,10.0,6,0.05,57.0,51.0,6.0
+ORD101146,2023-11-09,Customer_233,North,Router,Electronics,60.0,1,0.0,60.0,35.4,24.6
+ORD100083,2024-12-27,Customer_237,West,Notebook,Stationery,3.0,4,0.3,8.4,9.6,-1.2
+ORD100407,2023-11-10,Customer_285,South,Notebook,Stationery,3.0,5,0.0,15.0,10.8,4.2
+ORD100917,2024-09-14,Customer_180,West,Webcam HD,Electronics,45.0,5,0.2,180.0,177.75,2.25
+ORD100740,2024-06-01,Customer_107,East,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,86.8,53.2
+ORD100923,2024-06-01,Customer_101,East,Notebook,Stationery,3.0,1,0.15,2.55,2.22,0.33
+ORD100484,2023-08-11,Customer_46,South,Webcam HD,Electronics,45.0,4,0.0,180.0,109.8,70.2
+ORD100058,2023-04-02,Customer_234,South,SSD 1TB,Electronics,110.0,4,0.1,396.0,255.2,140.8
+ORD100199,2024-05-11,Customer_117,West,Smartphone Case,Accessories,10.0,7,0.0,70.0,50.4,19.6
+ORD100374,2023-06-04,Customer_74,North,Notebook,Stationery,3.0,2,0.1,5.4,3.42,1.98
+ORD100232,2024-02-05,Customer_274,South,Office Chair,Furniture,120.0,2,0.2,192.0,182.4,9.6
+ORD100279,2023-07-27,Customer_261,North,Notebook,Stationery,3.0,2,0.1,5.4,3.36,2.04
+ORD100932,2024-10-23,Customer_158,West,SSD 1TB,Electronics,110.0,4,0.0,440.0,347.6,92.4
+ORD100949,2024-07-01,Customer_253,North,Pen Set,Stationery,5.0,2,0.0,10.0,6.9,3.1
+ORD101173,2024-10-27,Customer_171,North,"Monitor 24""",Electronics,130.0,2,0.15,221.0,182.0,39.0
+ORD100581,2023-05-31,Customer_21,West,External HDD,Electronics,85.0,1,0.0,85.0,71.4,13.6
+ORD100765,2023-03-13,Customer_132,West,Mechanical Keyboard,Electronics,70.0,3,0.1,189.0,134.4,54.6
+ORD100653,2023-07-10,Customer_299,South,Laptop Stand,Accessories,25.0,2,0.1,45.0,33.5,11.5
+ORD100944,2023-05-17,Customer_276,East,Office Chair,Furniture,120.0,2,0.0,240.0,192.0,48.0
+ORD101022,2024-12-25,Customer_79,West,External HDD,Electronics,85.0,2,0.0,170.0,120.7,49.3
+ORD100070,2024-07-19,Customer_202,East,External HDD,Electronics,85.0,3,0.0,255.0,155.55,99.45
+ORD100802,2023-05-13,Customer_19,South,Desk Lamp,Furniture,18.0,1,0.0,18.0,10.44,7.56
+ORD100363,2023-11-19,Customer_295,West,USB-C Cable,Electronics,8.0,2,0.15,13.6,9.12,4.48
+ORD100066,2024-07-15,Customer_226,East,"Monitor 24""",Electronics,130.0,1,0.05,123.5,79.3,44.2
+ORD100436,2023-12-12,Customer_274,West,Router,Electronics,60.0,3,0.0,180.0,126.0,54.0
+ORD100903,2024-06-08,Customer_231,North,External HDD,Electronics,85.0,2,0.0,170.0,144.5,25.5
+ORD100996,2024-08-18,Customer_260,East,Laptop Stand,Accessories,25.0,3,0.05,71.25,60.75,10.5
+ORD100101,2023-05-09,Customer_34,East,Laptop Stand,Accessories,25.0,5,0.0,125.0,93.75,31.25
+ORD100970,2023-11-22,Customer_20,Central,Mechanical Keyboard,Electronics,70.0,7,0.0,490.0,318.5,171.5
+ORD100356,2023-04-09,Customer_158,North,Desk Lamp,Furniture,18.0,4,0.0,72.0,49.68,22.32
+ORD100387,2024-05-20,Customer_193,South,Wireless Mouse,Electronics,15.0,4,0.1,54.0,43.2,10.8
+ORD100519,2023-03-31,Customer_251,South,Office Chair,Furniture,120.0,4,0.05,456.0,374.4,81.6
+ORD100960,2024-07-27,Customer_79,North,External HDD,Electronics,85.0,2,0.0,170.0,125.8,44.2
+ORD100983,2024-07-03,Customer_178,North,Pen Set,Stationery,5.0,4,0.0,20.0,13.4,6.6
+ORD101143,2023-05-17,Customer_119,North,Smartphone Case,Accessories,10.0,3,0.05,28.5,19.2,9.3
+ORD100794,2023-09-06,Customer_152,East,Notebook,Stationery,3.0,3,0.2,7.2,5.22,1.98
+ORD100119,2023-02-02,Customer_46,North,Office Chair,Furniture,120.0,4,0.1,432.0,312.0,120.0
+ORD100284,2023-04-30,Customer_9,South,Desk Lamp,Furniture,18.0,3,0.1,48.6,44.82,3.78
+ORD100889,2023-01-15,Customer_3,South,"Monitor 24""",Electronics,130.0,4,0.05,494.0,338.0,156.0
+ORD100988,2024-11-20,Customer_149,North,Wireless Mouse,Electronics,15.0,3,0.1,40.5,32.4,8.1
+ORD100455,2024-03-22,Customer_222,South,Webcam HD,Electronics,45.0,3,0.15,114.75,83.7,31.05
+ORD100555,2024-12-29,Customer_159,West,Webcam HD,Electronics,45.0,1,0.0,45.0,28.8,16.2
+ORD100248,2023-12-12,Customer_158,West,Notebook,Stationery,3.0,3,0.0,9.0,5.76,3.24
+ORD100812,2023-07-24,Customer_49,North,Smartphone Case,Accessories,10.0,6,0.15,51.0,49.8,1.2
+ORD100021,2024-05-06,Customer_288,North,Webcam HD,Electronics,45.0,3,0.0,135.0,91.8,43.2
+ORD100235,2024-09-01,Customer_39,North,Pen Set,Stationery,5.0,3,0.3,10.5,9.3,1.2
+ORD100684,2023-09-16,Customer_1,North,Desk Lamp,Furniture,18.0,3,0.0,54.0,42.12,11.88
+ORD100460,2024-10-17,Customer_9,East,Office Chair,Furniture,120.0,5,0.05,570.0,438.0,132.0
+ORD100226,2024-02-20,Customer_170,South,Router,Electronics,60.0,3,0.2,144.0,126.0,18.0
+ORD100662,2024-11-02,Customer_294,East,Desk Lamp,Furniture,18.0,5,0.15,76.5,63.9,12.6
+ORD100724,2023-03-06,Customer_110,Central,External HDD,Electronics,85.0,3,0.0,255.0,183.6,71.4
+ORD100502,2024-03-02,Customer_166,Central,Webcam HD,Electronics,45.0,4,0.0,180.0,126.0,54.0
+ORD100045,2024-04-29,Customer_263,North,Router,Electronics,60.0,2,0.2,96.0,70.8,25.2
+ORD100863,2024-09-16,Customer_200,Central,Mechanical Keyboard,Electronics,70.0,1,0.0,70.0,46.2,23.8
+ORD100273,2023-02-06,Customer_226,North,Smartphone Case,Accessories,10.0,5,0.0,50.0,37.5,12.5
+ORD100129,2024-09-04,Customer_296,Central,Bluetooth Speaker,Electronics,55.0,1,0.15,46.75,31.35,15.4
+ORD100158,2024-07-31,Customer_61,East,Notebook,Stationery,3.0,4,0.15,10.2,7.32,2.88
+ORD100577,2023-01-25,Customer_131,Central,Bluetooth Speaker,Electronics,55.0,5,0.15,233.75,159.5,74.25
+ORD100135,2024-02-02,Customer_232,East,Office Chair,Furniture,120.0,2,0.0,240.0,189.6,50.4
+ORD100584,2023-02-08,Customer_8,West,Desk Lamp,Furniture,18.0,1,0.1,16.2,10.44,5.76
+ORD100921,2024-02-29,Customer_262,North,Wireless Mouse,Electronics,15.0,3,0.3,31.5,26.55,4.95
+ORD101195,2024-10-31,Customer_104,West,Laptop Stand,Accessories,25.0,3,0.05,71.25,59.25,12.0
+ORD100860,2023-01-26,Customer_149,North,"Monitor 24""",Electronics,130.0,2,0.0,260.0,215.8,44.2
+ORD100476,2024-09-03,Customer_289,South,External HDD,Electronics,85.0,2,0.0,170.0,115.6,54.4
+ORD100126,2024-11-14,Customer_29,North,Laptop Stand,Accessories,25.0,4,0.05,95.0,71.0,24.0
+ORD100268,2023-01-02,Customer_72,North,Desk Lamp,Furniture,18.0,3,0.0,54.0,32.94,21.06
+ORD100692,2024-01-08,Customer_192,North,"Monitor 24""",Electronics,130.0,3,0.05,370.5,226.2,144.3
+ORD100639,2023-06-22,Customer_119,East,Mechanical Keyboard,Electronics,70.0,4,0.0,280.0,212.8,67.2
+ORD101006,2023-11-14,Customer_116,East,Webcam HD,Electronics,45.0,3,0.1,121.5,93.15,28.35
+ORD101155,2023-07-29,Customer_224,Central,Router,Electronics,60.0,4,0.1,216.0,139.2,76.8
+ORD100618,2023-12-31,Customer_171,South,Smartphone Case,Accessories,10.0,3,0.0,30.0,18.6,11.4
+ORD101180,2023-05-28,Customer_23,West,USB-C Cable,Electronics,8.0,3,0.0,24.0,16.08,7.92
+ORD100272,2024-03-28,Customer_107,West,Webcam HD,Electronics,45.0,1,0.05,42.75,29.25,13.5
+ORD100104,2023-03-04,Customer_153,East,Office Chair,Furniture,120.0,2,0.0,240.0,153.6,86.4
+ORD100157,2023-03-27,Customer_217,North,Pen Set,Stationery,5.0,1,0.05,4.75,3.6,1.15
+ORD101158,2023-12-13,Customer_86,North,Notebook,Stationery,3.0,5,0.0,15.0,12.45,2.55
+ORD100818,2023-04-05,Customer_150,South,"Monitor 24""",Electronics,130.0,2,0.0,260.0,192.4,67.6
+ORD100984,2023-05-19,Customer_253,East,Webcam HD,Electronics,45.0,2,0.2,72.0,57.6,14.4
+ORD100710,2024-07-11,Customer_279,South,SSD 1TB,Electronics,110.0,5,0.15,467.5,374.0,93.5
+ORD101148,2024-10-27,Customer_149,North,"Monitor 24""",Electronics,130.0,5,0.15,552.5,526.5,26.0
+ORD100962,2023-07-13,Customer_173,West,"Monitor 24""",Electronics,130.0,2,0.0,260.0,215.8,44.2
+ORD100037,2024-11-30,Customer_88,East,Pen Set,Stationery,5.0,3,0.0,15.0,9.75,5.25
+ORD100330,2024-08-31,Customer_40,Central,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,100.8,39.2
+ORD101033,2024-02-06,Unknown,South,External HDD,Electronics,85.0,3,0.0,255.0,183.6,71.4
+ORD101088,2023-02-16,Customer_148,West,"Monitor 24""",Electronics,130.0,3,0.3,273.0,222.3,50.7
+ORD100286,2024-09-19,Customer_20,West,Webcam HD,Electronics,45.0,2,0.3,63.0,53.1,9.9
+ORD100116,2023-01-28,Customer_173,West,SSD 1TB,Electronics,110.0,6,0.0,660.0,528.0,132.0
+ORD100091,2023-08-05,Customer_29,East,Laptop Stand,Accessories,25.0,3,0.1,67.5,58.5,9.0
+ORD100677,2023-11-01,Customer_114,South,Mechanical Keyboard,Electronics,70.0,1,0.3,49.0,56.0,-7.0
+ORD100683,2024-07-19,Customer_289,West,Wireless Mouse,Electronics,15.0,1,0.0,15.0,12.15,2.85
+ORD100775,2023-08-24,Customer_36,West,Office Chair,Furniture,120.0,4,0.0,480.0,302.4,177.6
+ORD100819,2024-01-09,Customer_293,East,USB-C Cable,Electronics,8.0,2,0.0,16.0,12.0,4.0
+ORD100823,2023-10-08,Customer_138,East,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,114.8,25.2
+ORD101167,2024-05-15,Customer_283,East,Router,Electronics,60.0,1,0.0,60.0,39.6,20.4
+ORD100090,2023-02-22,Customer_154,South,Router,Electronics,60.0,4,0.0,240.0,165.6,74.4
+ORD100540,2023-04-09,Customer_119,North,External HDD,Electronics,85.0,3,0.0,255.0,160.65,94.35
+ORD101163,2024-10-25,Customer_269,East,Desk Lamp,Furniture,18.0,4,0.1,64.8,42.48,22.32
+ORD100580,2024-07-18,Customer_40,West,USB-C Cable,Electronics,8.0,5,0.0,40.0,26.0,14.0
+ORD100672,2024-06-15,Customer_175,West,Router,Electronics,60.0,2,0.1,108.0,82.8,25.2
+ORD101131,2024-09-04,Customer_153,Central,Bluetooth Speaker,Electronics,55.0,2,0.2,88.0,74.8,13.2
+ORD100971,2024-02-14,Customer_146,West,USB-C Cable,Electronics,8.0,2,0.1,14.4,11.36,3.04
+ORD100169,2024-05-20,Customer_12,West,Notebook,Stationery,3.0,4,0.1,10.8,9.24,1.56
+ORD100936,2024-05-17,Customer_67,South,"Monitor 24""",Electronics,130.0,4,0.0,520.0,390.0,130.0
+ORD100487,2024-08-30,Customer_86,East,External HDD,Electronics,85.0,4,0.0,340.0,234.6,105.4
+ORD100690,2024-02-12,Customer_90,West,Wireless Mouse,Electronics,15.0,4,0.1,54.0,49.8,4.2
+ORD100973,2024-12-24,Customer_43,South,USB-C Cable,Electronics,8.0,2,0.0,16.0,9.76,6.24
+ORD100846,2023-03-19,Customer_36,North,Pen Set,Stationery,5.0,2,0.1,9.0,7.6,1.4
+ORD100477,2023-10-16,Customer_102,North,Desk Lamp,Furniture,18.0,3,0.1,48.6,36.18,12.42
+ORD100504,2023-09-25,Customer_174,South,Bluetooth Speaker,Electronics,55.0,4,0.05,209.0,158.4,50.6
+ORD101140,2024-10-22,Customer_122,West,Notebook,Stationery,3.0,2,0.05,5.7,4.92,0.78
+ORD101009,2024-01-11,Customer_256,West,"Monitor 24""",Electronics,130.0,2,0.0,260.0,208.0,52.0
+ORD100437,2024-04-18,Customer_271,East,SSD 1TB,Electronics,110.0,2,0.0,220.0,165.0,55.0
+ORD100309,2024-01-27,Customer_9,North,Wireless Mouse,Electronics,15.0,2,0.1,27.0,23.1,3.9
+ORD100481,2024-06-05,Customer_88,East,Office Chair,Furniture,120.0,1,0.2,96.0,67.2,28.8
+ORD100280,2023-05-11,Customer_54,West,Smartphone Case,Accessories,10.0,2,0.0,20.0,14.2,5.8
+ORD100315,2024-11-18,Customer_38,North,External HDD,Electronics,85.0,2,0.0,170.0,130.9,39.1
+ORD100575,2023-04-09,Customer_125,East,Bluetooth Speaker,Electronics,55.0,3,0.0,165.0,95.7,69.3
+ORD100508,2023-02-12,Customer_123,East,Laptop Stand,Accessories,25.0,4,0.05,95.0,67.0,28.0
+ORD100141,2024-11-21,Customer_246,North,SSD 1TB,Electronics,110.0,1,0.1,99.0,66.0,33.0
+ORD101036,2024-09-07,Customer_256,East,Laptop Stand,Accessories,25.0,2,0.0,50.0,32.0,18.0
+ORD100223,2024-12-30,Customer_16,West,Webcam HD,Electronics,45.0,1,0.05,42.75,30.15,12.6
+ORD100771,2023-04-28,Customer_159,Central,Laptop Stand,Accessories,25.0,3,0.15,63.75,63.75,0.0
+ORD100213,2024-10-03,Customer_98,East,Pen Set,Stationery,5.0,2,0.0,10.0,6.7,3.3
+ORD100287,2024-08-09,Customer_241,West,Pen Set,Stationery,5.0,3,0.15,12.75,10.8,1.95
+ORD100060,2024-03-30,Customer_119,South,Webcam HD,Electronics,45.0,2,0.1,81.0,59.4,21.6
+ORD100590,2023-08-11,Customer_2,East,Router,Electronics,60.0,2,0.1,108.0,88.8,19.2
+ORD100992,2023-06-21,Customer_80,North,Desk Lamp,Furniture,18.0,4,0.0,72.0,39.6,32.4
+ORD100842,2024-06-07,Customer_42,East,Notebook,Stationery,3.0,2,0.0,6.0,3.72,2.28
+ORD100716,2024-12-09,Customer_76,Central,Smartphone Case,Accessories,10.0,2,0.0,20.0,16.0,4.0
+ORD101188,2023-11-23,Customer_136,West,SSD 1TB,Electronics,110.0,3,0.0,330.0,247.5,82.5
+ORD100000,2023-04-13,Customer_286,South,Office Chair,Furniture,120.0,2,0.0,240.0,132.0,108.0
+ORD101190,2023-08-03,Customer_144,East,SSD 1TB,Electronics,110.0,2,0.15,187.0,129.8,57.2
+ORD100564,2023-08-21,Customer_96,East,External HDD,Electronics,85.0,3,0.0,255.0,198.9,56.1
+ORD100183,2024-03-31,Customer_200,South,Laptop Stand,Accessories,25.0,2,0.0,50.0,35.0,15.0
+ORD100505,2024-07-30,Customer_122,Central,"Monitor 24""",Electronics,130.0,6,0.0,780.0,522.6,257.4
+ORD100814,2023-02-12,Customer_226,West,Wireless Mouse,Electronics,15.0,3,0.1,40.5,25.2,15.3
+ORD100379,2023-09-03,Customer_37,South,"Monitor 24""",Electronics,130.0,2,0.0,260.0,156.0,104.0
+ORD100421,2023-04-13,Customer_195,South,Notebook,Stationery,3.0,4,0.0,12.0,7.68,4.32
+ORD100293,2023-08-15,Customer_3,North,Pen Set,Stationery,5.0,2,0.0,10.0,7.8,2.2
+ORD100978,2024-07-12,Customer_287,West,Router,Electronics,60.0,4,0.1,216.0,139.2,76.8
+ORD100887,2023-10-01,Customer_145,North,Router,Electronics,60.0,3,0.15,153.0,100.8,52.2
+ORD100573,2023-05-24,Customer_186,Central,Pen Set,Stationery,5.0,2,0.05,9.5,6.4,3.1
+ORD100781,2023-08-17,Customer_141,East,SSD 1TB,Electronics,110.0,3,0.0,330.0,227.7,102.3
+ORD101142,2023-11-05,Customer_222,West,Laptop Stand,Accessories,25.0,4,0.05,95.0,81.0,14.0
+ORD101018,2023-12-15,Customer_62,South,Laptop Stand,Accessories,25.0,3,0.2,60.0,42.75,17.25
+ORD101194,2023-02-01,Customer_3,South,Webcam HD,Electronics,45.0,4,0.0,180.0,142.2,37.8
+ORD100905,2023-01-25,Customer_161,West,External HDD,Electronics,85.0,2,0.0,170.0,102.0,68.0
+ORD100343,2023-06-07,Customer_181,East,Router,Electronics,60.0,3,0.0,180.0,106.2,73.8
+ORD100417,2023-02-22,Customer_175,South,Webcam HD,Electronics,45.0,4,0.0,180.0,133.2,46.8
+ORD101116,2024-04-04,Customer_149,East,Desk Lamp,Furniture,18.0,4,0.0,72.0,52.56,19.44
+ORD100600,2024-05-06,Customer_28,East,Laptop Stand,Accessories,25.0,5,0.05,118.75,71.25,47.5
+ORD100897,2023-08-19,Customer_5,North,"Monitor 24""",Electronics,130.0,2,0.0,260.0,174.2,85.8
+ORD100809,2024-06-29,Customer_242,North,Router,Electronics,60.0,4,0.0,240.0,165.6,74.4
+ORD100848,2023-03-14,Customer_229,South,Bluetooth Speaker,Electronics,55.0,4,0.0,220.0,167.2,52.8
+ORD100612,2023-01-29,Customer_93,North,Wireless Mouse,Electronics,15.0,3,0.3,31.5,36.9,-5.4
+ORD101061,2024-10-30,Customer_48,South,Mechanical Keyboard,Electronics,70.0,1,0.0,70.0,54.6,15.4
+ORD100526,2024-05-15,Customer_297,North,"Monitor 24""",Electronics,130.0,6,0.15,663.0,483.6,179.4
+ORD100552,2023-09-30,Customer_93,North,Webcam HD,Electronics,45.0,4,0.0,180.0,124.2,55.8
+ORD100285,2024-11-03,Customer_99,South,Office Chair,Furniture,120.0,3,0.0,360.0,208.8,151.2
+ORD100913,2023-08-16,Customer_237,South,USB-C Cable,Electronics,8.0,4,0.0,32.0,20.8,11.2
+ORD100197,2024-11-22,Customer_250,Central,Desk Lamp,Furniture,18.0,3,0.0,54.0,39.42,14.58
+ORD100545,2023-07-09,Customer_150,Central,Laptop Stand,Accessories,25.0,3,0.0,75.0,63.0,12.0
+ORD100411,2024-11-22,Customer_271,West,Office Chair,Furniture,120.0,3,0.0,360.0,298.8,61.2
+ORD100128,2024-06-30,Customer_267,Central,Router,Electronics,60.0,2,0.05,114.0,69.6,44.4
+ORD100328,2023-08-14,Customer_56,West,External HDD,Electronics,85.0,5,0.1,382.5,352.75,29.75
+ORD100200,2024-03-17,Customer_7,North,Pen Set,Stationery,5.0,1,0.0,5.0,3.5,1.5
+ORD100891,2024-09-22,Customer_30,North,USB-C Cable,Electronics,8.0,3,0.0,24.0,18.48,5.52
+ORD100535,2024-11-06,Customer_147,Central,Bluetooth Speaker,Electronics,55.0,3,0.0,165.0,110.55,54.45
+ORD100854,2023-02-25,Customer_269,North,Smartphone Case,Accessories,10.0,3,0.0,30.0,20.4,9.6
+ORD100148,2023-08-19,Customer_227,East,USB-C Cable,Electronics,8.0,1,0.0,8.0,5.36,2.64
+ORD100678,2024-06-09,Customer_145,North,Notebook,Stationery,3.0,3,0.0,9.0,5.13,3.87
+ORD100968,2023-10-27,Customer_141,South,Bluetooth Speaker,Electronics,55.0,4,0.0,220.0,127.6,92.4
+ORD100065,2023-03-22,Customer_222,West,Notebook,Stationery,3.0,4,0.05,11.4,7.68,3.72
+ORD100361,2023-06-10,Customer_77,West,Webcam HD,Electronics,45.0,5,0.0,225.0,141.75,83.25
+ORD100432,2024-10-18,Customer_163,East,Bluetooth Speaker,Electronics,55.0,2,0.05,104.5,70.4,34.1
+ORD100462,2023-03-27,Customer_214,Central,External HDD,Electronics,85.0,3,0.1,229.5,175.95,53.55
+ORD100271,2024-10-13,Customer_243,Central,Office Chair,Furniture,120.0,2,0.0,240.0,184.8,55.2
+ORD100143,2023-08-29,Customer_289,North,External HDD,Electronics,85.0,2,0.1,153.0,103.7,49.3
+ORD101016,2023-11-16,Customer_133,West,Office Chair,Furniture,120.0,3,0.1,324.0,291.6,32.4
+ORD101111,2024-09-07,Customer_217,South,Desk Lamp,Furniture,18.0,4,0.0,72.0,51.12,20.88
+ORD100952,2023-11-18,Customer_95,East,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,82.6,57.4
+ORD100086,2023-10-23,Customer_246,East,USB-C Cable,Electronics,8.0,2,0.0,16.0,8.8,7.2
+ORD100164,2024-09-11,Customer_131,North,Desk Lamp,Furniture,18.0,2,0.0,36.0,23.4,12.6
+ORD100659,2023-02-27,Customer_223,East,SSD 1TB,Electronics,110.0,6,0.0,660.0,495.0,165.0
+ORD101139,2024-01-06,Customer_113,North,SSD 1TB,Electronics,110.0,2,0.3,154.0,173.8,-19.8
+ORD100707,2023-07-20,Customer_102,South,USB-C Cable,Electronics,8.0,2,0.05,15.2,10.4,4.8
+ORD100567,2024-03-30,Customer_117,East,Laptop Stand,Accessories,25.0,3,0.0,75.0,55.5,19.5
+ORD101147,2023-04-27,Customer_18,South,Wireless Mouse,Electronics,15.0,2,0.3,21.0,16.8,4.2
+ORD101157,2024-02-22,Customer_256,East,Notebook,Stationery,3.0,2,0.0,6.0,5.04,0.96
+ORD100193,2024-11-02,Customer_16,North,Pen Set,Stationery,5.0,2,0.15,8.5,8.4,0.1
+ORD101025,2024-01-14,Customer_65,North,SSD 1TB,Electronics,110.0,4,0.1,396.0,277.2,118.8
+ORD100108,2024-01-27,Customer_27,East,Desk Lamp,Furniture,18.0,2,0.2,28.8,30.6,-1.8
+ORD100665,2023-03-21,Customer_234,East,Bluetooth Speaker,Electronics,55.0,2,0.05,104.5,86.9,17.6
+ORD100171,2024-04-17,Customer_101,West,Desk Lamp,Furniture,18.0,2,0.0,36.0,30.24,5.76
+ORD100018,2024-10-23,Customer_162,Central,USB-C Cable,Electronics,8.0,6,0.0,48.0,36.48,11.52
+ORD100925,2023-10-09,Customer_12,South,Laptop Stand,Accessories,25.0,3,0.2,60.0,42.0,18.0
+ORD100155,2024-11-29,Customer_17,Central,Bluetooth Speaker,Electronics,55.0,2,0.0,110.0,69.3,40.7
+ORD100370,2024-09-17,Customer_17,West,"Monitor 24""",Electronics,130.0,2,0.0,260.0,156.0,104.0
+ORD100927,2024-03-18,Customer_49,South,Webcam HD,Electronics,45.0,3,0.05,128.25,98.55,29.7
+ORD100743,2024-10-06,Customer_281,West,External HDD,Electronics,85.0,2,0.0,170.0,110.5,59.5
+ORD100471,2023-08-06,Customer_95,East,Desk Lamp,Furniture,18.0,6,0.1,97.2,82.08,15.12
+ORD100551,2023-08-05,Customer_35,North,Desk Lamp,Furniture,18.0,5,0.0,90.0,70.2,19.8
+ORD100849,2023-09-06,Customer_164,North,Office Chair,Furniture,120.0,4,0.1,432.0,264.0,168.0
+ORD100641,2023-08-08,Customer_198,West,Webcam HD,Electronics,45.0,3,0.0,135.0,98.55,36.45
+ORD100016,2024-10-25,Customer_288,South,Pen Set,Stationery,5.0,3,0.05,14.25,10.5,3.75
+ORD100385,2024-02-12,Customer_17,North,Bluetooth Speaker,Electronics,55.0,4,0.0,220.0,154.0,66.0
+ORD100075,2024-12-30,Customer_128,South,Smartphone Case,Accessories,10.0,2,0.3,14.0,15.4,-1.4
+ORD101062,2023-10-16,Customer_29,Central,SSD 1TB,Electronics,110.0,1,0.15,93.5,85.8,7.7
+ORD101029,2023-05-12,Customer_213,South,Mechanical Keyboard,Electronics,70.0,2,0.3,98.0,91.0,7.0
+ORD100557,2024-02-01,Customer_293,East,USB-C Cable,Electronics,8.0,4,0.0,32.0,18.56,13.44
+ORD100832,2024-02-07,Customer_42,East,Laptop Stand,Accessories,25.0,1,0.0,25.0,16.25,8.75
+ORD100664,2023-05-29,Customer_126,South,"Monitor 24""",Electronics,130.0,3,0.0,390.0,249.6,140.4
+ORD100319,2023-01-22,Customer_37,West,Laptop Stand,Accessories,25.0,3,0.0,75.0,45.0,30.0
+ORD100241,2023-05-04,Customer_236,East,Mechanical Keyboard,Electronics,70.0,3,0.05,199.5,170.1,29.4
+ORD100744,2024-03-12,Customer_292,East,Notebook,Stationery,3.0,1,0.0,3.0,2.46,0.54
+ORD100883,2023-01-03,Customer_158,South,Notebook,Stationery,3.0,5,0.15,12.75,10.2,2.55
+ORD101133,2023-12-12,Customer_114,Central,Mechanical Keyboard,Electronics,70.0,4,0.15,238.0,156.8,81.2
+ORD100543,2024-10-25,Customer_82,North,Wireless Mouse,Electronics,15.0,2,0.0,30.0,20.7,9.3
+ORD100991,2024-10-11,Customer_263,West,Office Chair,Furniture,120.0,3,0.05,342.0,201.6,140.4
+ORD100980,2023-03-31,Customer_266,North,Wireless Mouse,Electronics,15.0,2,0.05,28.5,20.4,8.1
+ORD100321,2023-02-07,Customer_284,North,"Monitor 24""",Electronics,130.0,3,0.1,351.0,327.6,23.4
+ORD100593,2023-06-12,Customer_111,East,Notebook,Stationery,3.0,1,0.1,2.7,2.46,0.24
+ORD100574,2023-03-10,Customer_246,West,Webcam HD,Electronics,45.0,3,0.1,121.5,99.9,21.6
+ORD100349,2023-02-06,Customer_133,North,Desk Lamp,Furniture,18.0,7,0.05,119.7,73.08,46.62
+ORD101169,2023-06-26,Customer_95,North,Office Chair,Furniture,120.0,3,0.0,360.0,252.0,108.0
+ORD100498,2024-11-05,Customer_116,Central,External HDD,Electronics,85.0,7,0.0,595.0,351.05,243.95
+ORD100405,2023-05-05,Customer_26,East,External HDD,Electronics,85.0,5,0.05,403.75,357.0,46.75
+ORD100089,2023-12-04,Customer_4,South,Desk Lamp,Furniture,18.0,4,0.0,72.0,56.16,15.84
+ORD100920,2024-07-07,Customer_196,North,Wireless Mouse,Electronics,15.0,4,0.0,60.0,42.0,18.0
+ORD100414,2024-03-19,Customer_75,West,Notebook,Stationery,3.0,1,0.15,2.55,2.13,0.42
+ORD100418,2024-07-25,Customer_84,East,USB-C Cable,Electronics,8.0,2,0.1,14.4,10.4,4.0
+ORD100082,2024-04-06,Customer_40,Central,Pen Set,Stationery,5.0,4,0.0,20.0,16.0,4.0
+ORD100306,2024-02-02,Customer_195,East,Mechanical Keyboard,Electronics,70.0,3,0.0,210.0,161.7,48.3
+ORD100608,2024-01-28,Customer_195,East,Pen Set,Stationery,5.0,2,0.0,10.0,7.8,2.2
+ORD100857,2023-02-17,Customer_5,East,Office Chair,Furniture,120.0,4,0.1,432.0,388.8,43.2
+ORD100441,2024-10-02,Customer_60,East,Office Chair,Furniture,120.0,3,0.05,342.0,262.8,79.2
+ORD100194,2024-08-30,Customer_199,East,Smartphone Case,Accessories,10.0,5,0.15,42.5,34.5,8.0
+ORD100251,2023-05-28,Customer_153,North,Webcam HD,Electronics,45.0,3,0.05,128.25,86.4,41.85
+ORD100826,2024-10-28,Customer_254,Central,Laptop Stand,Accessories,25.0,1,0.0,25.0,14.75,10.25
+ORD100871,2024-06-09,Customer_258,South,Smartphone Case,Accessories,10.0,4,0.15,34.0,24.8,9.2
+ORD100615,2023-12-05,Customer_133,East,Wireless Mouse,Electronics,15.0,2,0.05,28.5,22.8,5.7
+ORD101156,2024-04-19,Customer_203,Central,Smartphone Case,Accessories,10.0,2,0.0,20.0,13.2,6.8
+ORD100388,2023-02-05,Customer_22,West,Bluetooth Speaker,Electronics,55.0,3,0.05,156.75,99.0,57.75
+ORD100311,2023-07-14,Customer_25,West,Smartphone Case,Accessories,10.0,3,0.2,24.0,19.2,4.8
+ORD100401,2024-10-26,Customer_33,West,Laptop Stand,Accessories,25.0,1,0.0,25.0,20.5,4.5
+ORD100748,2024-12-14,Customer_277,North,"Monitor 24""",Electronics,130.0,3,0.0,390.0,241.8,148.2
+ORD100940,2024-03-21,Customer_163,West,Pen Set,Stationery,5.0,3,0.1,13.5,11.85,1.65
+ORD100801,2023-03-22,Customer_152,West,"Monitor 24""",Electronics,130.0,4,0.0,520.0,426.4,93.6
+ORD100592,2023-05-13,Customer_41,North,USB-C Cable,Electronics,8.0,4,0.15,27.2,18.88,8.32
+ORD100513,2024-08-29,Customer_41,North,Pen Set,Stationery,5.0,2,0.0,10.0,6.6,3.4
+ORD100928,2023-11-11,Customer_42,West,Webcam HD,Electronics,45.0,4,0.0,180.0,108.0,72.0
+ORD101128,2023-10-24,Customer_271,South,Notebook,Stationery,3.0,2,0.1,5.4,4.02,1.38
+ORD100465,2023-08-08,Customer_64,East,"Monitor 24""",Electronics,130.0,1,0.05,123.5,96.2,27.3
+ORD101123,2024-01-13,Customer_288,South,Smartphone Case,Accessories,10.0,5,0.0,50.0,38.5,11.5
+ORD100796,2024-04-25,Customer_49,South,Mechanical Keyboard,Electronics,70.0,2,0.1,126.0,109.2,16.8
+ORD100524,2024-09-08,Customer_3,West,External HDD,Electronics,85.0,4,0.05,323.0,187.0,136.0
+ORD100529,2023-03-16,Customer_12,West,Bluetooth Speaker,Electronics,55.0,2,0.15,93.5,84.7,8.8
+ORD100391,2023-11-17,Customer_270,South,SSD 1TB,Electronics,110.0,3,0.0,330.0,260.7,69.3
+ORD100351,2023-12-15,Customer_45,North,Office Chair,Furniture,120.0,2,0.15,204.0,172.8,31.2
+ORD100640,2024-10-14,Customer_35,East,USB-C Cable,Electronics,8.0,4,0.0,32.0,26.24,5.76
+ORD100080,2023-09-28,Customer_14,Central,Notebook,Stationery,3.0,5,0.0,15.0,9.15,5.85
+ORD100345,2023-02-15,Customer_191,North,USB-C Cable,Electronics,8.0,4,0.0,32.0,25.6,6.4
+ORD101044,2024-10-26,Customer_252,Central,Webcam HD,Electronics,45.0,2,0.0,90.0,64.8,25.2
+ORD100250,2023-05-27,Customer_293,South,Webcam HD,Electronics,45.0,4,0.1,162.0,142.2,19.8
+ORD100308,2024-05-18,Customer_170,East,Wireless Mouse,Electronics,15.0,3,0.3,31.5,36.0,-4.5
+ORD100295,2024-05-24,Customer_227,East,USB-C Cable,Electronics,8.0,4,0.05,30.4,18.88,11.52
+ORD100827,2023-04-03,Customer_258,North,Desk Lamp,Furniture,18.0,1,0.0,18.0,10.26,7.74
+ORD100957,2023-04-28,Customer_141,East,Office Chair,Furniture,120.0,2,0.3,168.0,189.6,-21.6
+ORD100544,2024-10-24,Customer_211,East,SSD 1TB,Electronics,110.0,3,0.1,297.0,270.6,26.4
+ORD100189,2023-08-22,Customer_26,North,"Monitor 24""",Electronics,130.0,6,0.0,780.0,631.8,148.2
+ORD100326,2023-10-10,Customer_115,Central,External HDD,Electronics,85.0,1,0.05,80.75,54.4,26.35
+ORD100752,2023-03-26,Customer_52,North,Office Chair,Furniture,120.0,3,0.1,324.0,302.4,21.6
+ORD100120,2023-02-17,Customer_64,East,Smartphone Case,Accessories,10.0,2,0.1,18.0,12.8,5.2
+ORD100776,2024-01-24,Customer_84,North,Bluetooth Speaker,Electronics,55.0,2,0.0,110.0,88.0,22.0
+ORD100986,2023-09-16,Customer_83,East,Mechanical Keyboard,Electronics,70.0,4,0.3,196.0,182.0,14.0
+ORD100219,2024-09-29,Customer_15,West,Desk Lamp,Furniture,18.0,2,0.05,34.2,30.24,3.96
+ORD100682,2024-01-08,Customer_76,North,Notebook,Stationery,3.0,1,0.2,2.4,2.43,-0.03
+ORD100452,2023-09-29,Customer_46,Central,Office Chair,Furniture,120.0,4,0.05,456.0,312.0,144.0
+ORD100192,2024-01-09,Customer_266,West,USB-C Cable,Electronics,8.0,6,0.15,40.8,36.96,3.84
+ORD100840,2024-10-06,Customer_218,West,Webcam HD,Electronics,45.0,1,0.0,45.0,34.2,10.8
+ORD100290,2024-02-26,Customer_62,East,Pen Set,Stationery,5.0,3,0.0,15.0,8.4,6.6
+ORD100180,2023-09-16,Customer_81,West,Smartphone Case,Accessories,10.0,2,0.0,20.0,16.0,4.0
+ORD100979,2023-01-01,Customer_5,Central,Office Chair,Furniture,120.0,1,0.2,96.0,72.0,24.0
+ORD100185,2024-10-10,Customer_89,South,Router,Electronics,60.0,2,0.0,120.0,73.2,46.8
+ORD100644,2024-10-21,Customer_161,West,Laptop Stand,Accessories,25.0,3,0.0,75.0,55.5,19.5
+ORD101166,2024-12-10,Customer_213,North,Office Chair,Furniture,120.0,2,0.0,240.0,151.2,88.8
+ORD101008,2023-11-30,Customer_62,Central,Wireless Mouse,Electronics,15.0,5,0.1,67.5,63.75,3.75
+ORD100204,2024-01-21,Customer_82,North,Mechanical Keyboard,Electronics,70.0,5,0.0,350.0,262.5,87.5
+ORD101015,2023-10-23,Customer_86,South,External HDD,Electronics,85.0,4,0.0,340.0,285.6,54.4
+ORD100549,2024-06-08,Customer_202,East,External HDD,Electronics,85.0,4,0.0,340.0,221.0,119.0
+ORD100074,2024-02-06,Customer_215,West,External HDD,Electronics,85.0,2,0.0,170.0,120.7,49.3
+ORD100948,2023-08-17,Customer_281,East,Mechanical Keyboard,Electronics,70.0,6,0.3,294.0,235.2,58.8
+ORD100488,2023-11-21,Customer_92,Central,External HDD,Electronics,85.0,3,0.1,229.5,170.85,58.65
+ORD100941,2023-12-16,Customer_66,North,Laptop Stand,Accessories,25.0,3,0.0,75.0,43.5,31.5
+ORD100002,2023-09-28,Customer_19,North,USB-C Cable,Electronics,8.0,2,0.05,15.2,13.6,1.6
+ORD100267,2024-07-25,Customer_59,East,Notebook,Stationery,3.0,1,0.1,2.7,2.52,0.18
+ORD100084,2023-09-09,Customer_281,East,"Monitor 24""",Electronics,130.0,4,0.0,520.0,369.2,150.8
+ORD100654,2024-05-22,Customer_126,North,"Monitor 24""",Electronics,130.0,2,0.15,221.0,148.2,72.8
+ORD101003,2024-08-28,Customer_231,North,Router,Electronics,60.0,3,0.05,171.0,144.0,27.0
+ORD100492,2023-09-15,Customer_242,South,Router,Electronics,60.0,3,0.0,180.0,135.0,45.0
+ORD100793,2023-11-04,Customer_72,South,USB-C Cable,Electronics,8.0,5,0.0,40.0,30.4,9.6
+ORD100470,2023-07-23,Customer_274,North,Desk Lamp,Furniture,18.0,4,0.1,64.8,51.12,13.68
+ORD100142,2024-07-28,Customer_69,South,Bluetooth Speaker,Electronics,55.0,2,0.3,77.0,69.3,7.7
+ORD100697,2023-03-31,Customer_89,East,Notebook,Stationery,3.0,4,0.0,12.0,9.12,2.88
+ORD100156,2023-08-31,Customer_129,West,Office Chair,Furniture,120.0,3,0.0,360.0,295.2,64.8
+ORD100209,2023-03-22,Customer_159,North,Pen Set,Stationery,5.0,4,0.15,17.0,11.2,5.8
+ORD100835,2024-08-26,Customer_241,West,USB-C Cable,Electronics,8.0,3,0.0,24.0,14.64,9.36
+ORD101138,2024-07-20,Customer_174,South,Laptop Stand,Accessories,25.0,2,0.0,50.0,29.0,21.0
+ORD101035,2023-10-22,Customer_191,East,Wireless Mouse,Electronics,15.0,4,0.0,60.0,45.6,14.4
+ORD101023,2023-06-14,Customer_149,South,USB-C Cable,Electronics,8.0,2,0.0,16.0,11.04,4.96
+ORD100179,2024-09-19,Customer_149,North,Router,Electronics,60.0,4,0.3,168.0,160.8,7.2
+ORD100694,2023-05-02,Customer_73,South,Smartphone Case,Accessories,10.0,3,0.15,25.5,23.7,1.8
+ORD100738,2024-01-20,Customer_43,West,"Monitor 24""",Electronics,130.0,6,0.1,702.0,483.6,218.4
+ORD100134,2024-05-17,Customer_295,South,Pen Set,Stationery,5.0,1,0.0,5.0,4.05,0.95
+ORD100001,2024-03-11,Customer_144,North,Webcam HD,Electronics,45.0,3,0.1,121.5,81.0,40.5
+ORD100312,2024-02-05,Customer_261,West,Wireless Mouse,Electronics,15.0,6,0.0,90.0,57.6,32.4
+ORD100109,2024-11-05,Customer_287,Central,Smartphone Case,Accessories,10.0,2,0.0,20.0,16.0,4.0
+ORD100160,2024-07-10,Customer_42,West,Router,Electronics,60.0,3,0.0,180.0,126.0,54.0
+ORD100643,2023-02-27,Customer_59,North,Webcam HD,Electronics,45.0,4,0.0,180.0,151.2,28.8
+ORD100556,2023-12-08,Customer_24,South,Desk Lamp,Furniture,18.0,3,0.0,54.0,42.66,11.34
+ORD100376,2024-01-21,Customer_224,West,USB-C Cable,Electronics,8.0,4,0.0,32.0,24.32,7.68
+ORD100205,2024-01-22,Customer_223,South,Mechanical Keyboard,Electronics,70.0,2,0.3,98.0,99.4,-1.4
+ORD101189,2023-05-21,Customer_186,South,USB-C Cable,Electronics,8.0,2,0.05,15.2,12.8,2.4
+ORD100288,2024-09-16,Customer_61,South,External HDD,Electronics,85.0,3,0.1,229.5,209.1,20.4
+ORD100056,2024-07-18,Customer_197,East,Bluetooth Speaker,Electronics,55.0,5,0.0,275.0,178.75,96.25
+ORD100172,2023-08-19,Customer_44,Central,Pen Set,Stationery,5.0,4,0.0,20.0,16.6,3.4
+ORD100384,2024-06-21,Customer_192,West,Office Chair,Furniture,120.0,1,0.15,102.0,86.4,15.6
+ORD100599,2023-03-15,Customer_145,North,"Monitor 24""",Electronics,130.0,2,0.0,260.0,156.0,104.0
+ORD100943,2024-10-25,Customer_206,East,Notebook,Stationery,3.0,3,0.0,9.0,7.2,1.8
+ORD100231,2023-05-03,Customer_141,North,Pen Set,Stationery,5.0,3,0.05,14.25,11.25,3.0
+ORD101076,2024-05-31,Customer_173,North,Webcam HD,Electronics,45.0,1,0.05,42.75,24.75,18.0
+ORD100788,2023-11-02,Customer_271,South,External HDD,Electronics,85.0,5,0.0,425.0,344.25,80.75
+ORD100705,2024-05-16,Customer_102,South,Wireless Mouse,Electronics,15.0,2,0.1,27.0,18.0,9.0
+ORD100974,2023-08-13,Customer_254,East,External HDD,Electronics,85.0,2,0.1,153.0,127.5,25.5
+ORD100825,2023-07-14,Customer_77,West,External HDD,Electronics,85.0,6,0.0,510.0,311.1,198.9
+ORD100310,2023-05-15,Customer_40,West,Wireless Mouse,Electronics,15.0,3,0.2,36.0,36.0,0.0
+ORD100077,2023-06-11,Customer_209,South,"Monitor 24""",Electronics,130.0,2,0.0,260.0,213.2,46.8
+ORD101079,2023-06-08,Customer_101,West,Bluetooth Speaker,Electronics,55.0,4,0.0,220.0,167.2,52.8
+ORD100977,2023-05-20,Customer_151,South,USB-C Cable,Electronics,8.0,3,0.0,24.0,19.68,4.32
+ORD100236,2023-07-17,Customer_29,North,Notebook,Stationery,3.0,1,0.0,3.0,2.4,0.6
+ORD100426,2023-09-26,Customer_262,West,"Monitor 24""",Electronics,130.0,5,0.0,650.0,500.5,149.5
+ORD100619,2023-12-08,Customer_1,South,"Monitor 24""",Electronics,130.0,2,0.05,247.0,150.8,96.2
+ORD101084,2023-06-06,Customer_109,West,Office Chair,Furniture,120.0,3,0.0,360.0,219.6,140.4
+ORD100811,2024-03-25,Customer_175,West,Webcam HD,Electronics,45.0,5,0.2,180.0,173.25,6.75
+ORD100931,2024-03-12,Customer_291,North,Bluetooth Speaker,Electronics,55.0,3,0.0,165.0,127.05,37.95
+ORD100711,2024-06-30,Customer_129,South,USB-C Cable,Electronics,8.0,4,0.15,27.2,21.44,5.76
+ORD100175,2024-01-20,Customer_12,West,Desk Lamp,Furniture,18.0,1,0.0,18.0,11.34,6.66
+ORD100981,2024-10-15,Customer_130,North,Router,Electronics,60.0,2,0.05,114.0,70.8,43.2
+ORD100522,2024-02-22,Customer_208,West,Webcam HD,Electronics,45.0,2,0.15,76.5,65.7,10.8
+ORD100624,2023-08-05,Customer_175,East,Office Chair,Furniture,120.0,3,0.0,360.0,237.6,122.4
+ORD100787,2024-12-04,Customer_9,West,Router,Electronics,60.0,3,0.1,162.0,120.6,41.4
+ORD100456,2024-08-03,Customer_206,North,Laptop Stand,Accessories,25.0,4,0.2,80.0,70.0,10.0
+ORD100571,2024-05-20,Customer_295,Central,USB-C Cable,Electronics,8.0,3,0.1,21.6,13.44,8.16
+ORD101059,2023-01-15,Customer_130,East,Laptop Stand,Accessories,25.0,3,0.2,60.0,48.75,11.25
+ORD100525,2023-07-15,Customer_127,East,Office Chair,Furniture,120.0,4,0.05,456.0,326.4,129.6
+ORD101179,2024-11-19,Customer_19,South,Mechanical Keyboard,Electronics,70.0,2,0.05,133.0,81.2,51.8
+ORD100317,2024-04-14,Customer_176,West,Webcam HD,Electronics,45.0,1,0.2,36.0,30.15,5.85
+ORD101095,2023-10-19,Customer_51,West,Router,Electronics,60.0,3,0.0,180.0,153.0,27.0
+ORD100821,2023-12-26,Customer_160,North,Router,Electronics,60.0,3,0.05,171.0,111.6,59.4
+ORD100649,2024-01-22,Customer_181,Central,Notebook,Stationery,3.0,5,0.05,14.25,9.6,4.65
+ORD100152,2023-02-05,Customer_73,East,Router,Electronics,60.0,2,0.0,120.0,94.8,25.2
+ORD100046,2024-10-08,Customer_161,South,Desk Lamp,Furniture,18.0,4,0.0,72.0,40.32,31.68
+ORD100633,2023-04-01,Customer_130,East,USB-C Cable,Electronics,8.0,3,0.0,24.0,16.56,7.44
+ORD101103,2024-12-12,Customer_223,Central,SSD 1TB,Electronics,110.0,3,0.0,330.0,270.6,59.4
+ORD100589,2024-02-02,Customer_14,East,Smartphone Case,Accessories,10.0,3,0.1,27.0,21.6,5.4
+ORD100625,2023-10-28,Customer_204,East,Mechanical Keyboard,Electronics,70.0,3,0.0,210.0,140.7,69.3
+ORD100347,2024-06-01,Customer_188,East,Wireless Mouse,Electronics,15.0,3,0.05,42.75,28.35,14.4
+ORD101026,2023-03-19,Customer_13,South,SSD 1TB,Electronics,110.0,2,0.0,220.0,154.0,66.0
+ORD101101,2024-07-03,Customer_111,East,Pen Set,Stationery,5.0,4,0.2,16.0,15.4,0.6
+ORD100240,2023-07-20,Customer_272,East,Webcam HD,Electronics,45.0,3,0.1,121.5,75.6,45.9
+ORD100620,2024-05-14,Customer_64,North,USB-C Cable,Electronics,8.0,1,0.15,6.8,5.04,1.76
+ORD100490,2023-01-16,Customer_161,South,SSD 1TB,Electronics,110.0,1,0.05,104.5,84.7,19.8
+ORD100881,2023-11-08,Customer_208,West,SSD 1TB,Electronics,110.0,2,0.05,209.0,143.0,66.0
+ORD101090,2024-11-15,Customer_232,West,Notebook,Stationery,3.0,1,0.0,3.0,1.71,1.29
+ORD100062,2024-05-23,Customer_261,Central,Notebook,Stationery,3.0,5,0.2,12.0,9.6,2.4
+ORD101054,2024-01-26,Customer_105,West,External HDD,Electronics,85.0,4,0.0,340.0,275.4,64.6
+ORD101098,2024-10-21,Customer_8,East,Webcam HD,Electronics,45.0,3,0.0,135.0,85.05,49.95
+ORD100291,2023-04-14,Customer_145,North,External HDD,Electronics,85.0,3,0.1,229.5,168.3,61.2
+ORD101042,2024-07-28,Customer_52,West,USB-C Cable,Electronics,8.0,2,0.15,13.6,9.6,4.0
+ORD100773,2023-09-25,Customer_241,North,"Monitor 24""",Electronics,130.0,3,0.05,370.5,253.5,117.0
+ORD101051,2023-07-17,Customer_21,North,Smartphone Case,Accessories,10.0,5,0.0,50.0,40.0,10.0
+ORD100597,2024-08-10,Customer_130,West,Pen Set,Stationery,5.0,6,0.3,21.0,22.5,-1.5
+ORD100761,2024-05-02,Customer_158,East,Pen Set,Stationery,5.0,6,0.2,24.0,16.8,7.2
+ORD101058,2024-05-14,Customer_129,Central,"Monitor 24""",Electronics,130.0,3,0.2,312.0,276.9,35.1
+ORD100022,2024-02-18,Customer_178,South,Router,Electronics,60.0,2,0.0,120.0,76.8,43.2
+ORD100596,2024-10-19,Customer_84,North,Router,Electronics,60.0,5,0.1,270.0,237.0,33.0
+ORD100542,2023-04-06,Customer_288,Central,Desk Lamp,Furniture,18.0,3,0.0,54.0,41.04,12.96
+ORD100480,2023-01-23,Customer_179,North,Wireless Mouse,Electronics,15.0,3,0.05,42.75,35.55,7.2
+ORD100188,2023-08-13,Customer_59,South,Mechanical Keyboard,Electronics,70.0,3,0.1,189.0,134.4,54.6
+ORD101196,2023-10-12,Customer_224,East,Smartphone Case,Accessories,10.0,3,0.1,27.0,24.0,3.0
+ORD100839,2024-05-27,Customer_68,East,Notebook,Stationery,3.0,2,0.15,5.1,3.54,1.56
+ORD100916,2023-02-03,Customer_249,South,Pen Set,Stationery,5.0,6,0.0,30.0,20.7,9.3
+ORD101047,2024-05-17,Customer_227,North,Desk Lamp,Furniture,18.0,3,0.0,54.0,42.66,11.34
+ORD101136,2023-07-01,Customer_172,South,Desk Lamp,Furniture,18.0,3,0.2,43.2,30.24,12.96
+ORD101164,2023-01-25,Customer_258,North,Bluetooth Speaker,Electronics,55.0,4,0.3,154.0,147.4,6.6
+ORD100258,2024-04-17,Customer_198,West,External HDD,Electronics,85.0,3,0.1,229.5,186.15,43.35
+ORD100227,2023-09-04,Customer_34,West,SSD 1TB,Electronics,110.0,5,0.0,550.0,407.0,143.0
+ORD101049,2023-04-14,Customer_221,East,Notebook,Stationery,3.0,3,0.05,8.55,5.85,2.7
+ORD100316,2024-04-04,Customer_251,East,SSD 1TB,Electronics,110.0,2,0.0,220.0,176.0,44.0
+ORD101108,2024-01-31,Customer_78,South,Smartphone Case,Accessories,10.0,3,0.1,27.0,23.1,3.9
+ORD100107,2024-08-15,Customer_117,Central,Pen Set,Stationery,5.0,3,0.3,10.5,9.75,0.75
+ORD101115,2024-11-13,Customer_266,South,Office Chair,Furniture,120.0,3,0.0,360.0,230.4,129.6
+ORD100845,2024-06-29,Customer_109,East,Smartphone Case,Accessories,10.0,4,0.0,40.0,28.8,11.2
+ORD100427,2024-01-05,Customer_147,South,External HDD,Electronics,85.0,3,0.2,204.0,173.4,30.6
+ORD100085,2024-12-02,Customer_201,Central,Bluetooth Speaker,Electronics,55.0,3,0.0,165.0,133.65,31.35
+ORD100998,2023-11-15,Customer_40,North,USB-C Cable,Electronics,8.0,1,0.0,8.0,5.44,2.56
+ORD100314,2023-02-02,Customer_124,West,Office Chair,Furniture,120.0,3,0.15,306.0,201.6,104.4
+ORD100030,2023-09-10,Customer_67,South,Wireless Mouse,Electronics,15.0,4,0.0,60.0,46.8,13.2
+ORD100010,2023-08-03,Customer_222,Central,Smartphone Case,Accessories,10.0,4,0.0,40.0,30.0,10.0
+ORD100438,2023-04-27,Customer_208,East,Wireless Mouse,Electronics,15.0,2,0.0,30.0,20.1,9.9
+ORD100342,2023-08-08,Customer_45,South,Router,Electronics,60.0,6,0.0,360.0,259.2,100.8
+ORD100546,2023-02-06,Customer_37,West,SSD 1TB,Electronics,110.0,1,0.05,104.5,73.7,30.8
+ORD100458,2023-03-17,Customer_236,West,Notebook,Stationery,3.0,4,0.0,12.0,7.44,4.56
+ORD100914,2023-04-21,Customer_66,West,Webcam HD,Electronics,45.0,3,0.0,135.0,98.55,36.45
+ORD100125,2023-04-09,Customer_282,East,Router,Electronics,60.0,2,0.05,114.0,70.8,43.2
+ORD100257,2024-10-02,Customer_61,North,Desk Lamp,Furniture,18.0,1,0.0,18.0,14.22,3.78
+ORD100951,2023-01-06,Customer_164,Central,Mechanical Keyboard,Electronics,70.0,3,0.3,147.0,130.2,16.8
+ORD100880,2024-11-29,Customer_287,South,"Monitor 24""",Electronics,130.0,2,0.0,260.0,184.6,75.4
+ORD100313,2024-10-01,Customer_226,West,Notebook,Stationery,3.0,3,0.1,8.1,6.75,1.35
+ORD100568,2024-12-18,Customer_228,South,"Monitor 24""",Electronics,130.0,3,0.05,370.5,226.2,144.3
+ORD100715,2023-09-13,Customer_65,East,USB-C Cable,Electronics,8.0,4,0.0,32.0,19.84,12.16
+ORD100004,2023-03-13,Customer_257,East,Webcam HD,Electronics,45.0,2,0.0,90.0,67.5,22.5
+ORD101191,2024-03-10,Customer_72,East,Pen Set,Stationery,5.0,4,0.0,20.0,16.2,3.8
+ORD100198,2023-04-23,Customer_270,West,SSD 1TB,Electronics,110.0,4,0.3,308.0,255.2,52.8
+ORD100409,2023-12-08,Customer_99,North,Office Chair,Furniture,120.0,2,0.05,228.0,136.8,91.2
+ORD100174,2023-08-13,Customer_57,East,Bluetooth Speaker,Electronics,55.0,2,0.1,99.0,84.7,14.3
+ORD101021,2023-10-18,Customer_230,North,Mechanical Keyboard,Electronics,70.0,5,0.15,297.5,255.5,42.0
+ORD101137,2023-01-01,Customer_288,North,Pen Set,Stationery,5.0,3,0.05,14.25,12.45,1.8
+ORD100202,2023-09-25,Customer_176,West,Webcam HD,Electronics,45.0,4,0.1,162.0,127.8,34.2
+ORD100177,2023-10-10,Customer_216,West,Notebook,Stationery,3.0,2,0.15,5.1,4.08,1.02
+ORD100275,2023-01-09,Customer_241,South,SSD 1TB,Electronics,110.0,2,0.0,220.0,129.8,90.2
+ORD100579,2024-04-28,Customer_18,East,USB-C Cable,Electronics,8.0,2,0.0,16.0,12.32,3.68
+ORD100412,2024-11-12,Customer_285,Central,Office Chair,Furniture,120.0,4,0.1,432.0,388.8,43.2
+ORD100013,2023-03-29,Customer_264,South,"Monitor 24""",Electronics,130.0,1,0.0,130.0,100.1,29.9
+ORD100483,2023-06-29,Customer_76,East,USB-C Cable,Electronics,8.0,3,0.0,24.0,18.0,6.0
+ORD101170,2023-10-12,Customer_88,East,Pen Set,Stationery,5.0,3,0.05,14.25,11.85,2.4
+ORD101171,2023-03-04,Customer_44,West,USB-C Cable,Electronics,8.0,4,0.0,32.0,24.0,8.0
+ORD100538,2023-07-11,Customer_173,South,Notebook,Stationery,3.0,2,0.1,5.4,4.32,1.08
+ORD100117,2023-05-15,Customer_190,North,USB-C Cable,Electronics,8.0,3,0.2,19.2,18.24,0.96
+ORD100536,2024-01-29,Customer_55,West,Notebook,Stationery,3.0,2,0.1,5.4,4.98,0.42
+ORD100163,2023-01-28,Customer_291,West,Laptop Stand,Accessories,25.0,4,0.0,100.0,70.0,30.0
+ORD100111,2023-10-16,Customer_219,Central,Wireless Mouse,Electronics,15.0,1,0.0,15.0,8.4,6.6
+ORD100344,2024-04-21,Customer_170,East,Webcam HD,Electronics,45.0,3,0.2,108.0,93.15,14.85
+ORD100733,2024-04-05,Customer_12,West,Bluetooth Speaker,Electronics,55.0,5,0.0,275.0,187.0,88.0
+ORD100482,2023-04-10,Customer_41,North,Office Chair,Furniture,120.0,5,0.2,480.0,426.0,54.0
+ORD101065,2024-02-24,Customer_242,South,Wireless Mouse,Electronics,15.0,3,0.0,45.0,29.25,15.75
+ORD100130,2024-04-06,Customer_11,Central,"Monitor 24""",Electronics,130.0,2,0.05,247.0,200.2,46.8
+ORD101031,2023-02-11,Customer_173,North,Webcam HD,Electronics,45.0,4,0.0,180.0,102.6,77.4
+ORD101037,2024-06-09,Customer_183,West,Smartphone Case,Accessories,10.0,4,0.0,40.0,27.6,12.4
+ORD100338,2023-02-18,Customer_59,North,Smartphone Case,Accessories,10.0,1,0.0,10.0,7.2,2.8
+ORD100719,2023-08-30,Customer_93,West,Bluetooth Speaker,Electronics,55.0,1,0.0,55.0,32.45,22.55
+ORD100072,2024-04-21,Customer_120,East,SSD 1TB,Electronics,110.0,3,0.0,330.0,194.7,135.3
+ORD101078,2023-04-28,Customer_87,Central,Webcam HD,Electronics,45.0,4,0.05,171.0,100.8,70.2
+ORD100621,2024-10-18,Customer_284,West,Desk Lamp,Furniture,18.0,4,0.0,72.0,40.32,31.68
+ORD100515,2023-09-10,Customer_264,South,Desk Lamp,Furniture,18.0,5,0.2,72.0,61.2,10.8
+ORD100933,2023-10-04,Customer_216,North,Notebook,Stationery,3.0,3,0.0,9.0,7.11,1.89
+ORD100777,2024-02-05,Customer_263,Central,Notebook,Stationery,3.0,4,0.1,10.8,6.72,4.08
+ORD100012,2024-04-03,Customer_132,West,External HDD,Electronics,85.0,2,0.2,136.0,103.7,32.3
+ORD100447,2023-04-28,Customer_174,East,Desk Lamp,Furniture,18.0,2,0.2,28.8,21.96,6.84
+ORD100688,2023-11-26,Customer_53,South,External HDD,Electronics,85.0,3,0.05,242.25,145.35,96.9
+ORD100208,2024-09-16,Customer_14,West,"Monitor 24""",Electronics,130.0,5,0.0,650.0,520.0,130.0
+ORD100993,2023-01-13,Customer_252,North,Notebook,Stationery,3.0,3,0.05,8.55,7.29,1.26
+ORD100576,2024-01-31,Customer_268,West,Router,Electronics,60.0,3,0.05,171.0,133.2,37.8
+ORD100565,2023-03-17,Customer_105,South,"Monitor 24""",Electronics,130.0,1,0.1,117.0,88.4,28.6
+ORD101102,2023-05-14,Customer_220,West,"Monitor 24""",Electronics,130.0,1,0.05,123.5,107.9,15.6
+ORD100601,2023-09-10,Customer_66,West,External HDD,Electronics,85.0,2,0.05,161.5,129.2,32.3
+ORD100340,2023-01-17,Customer_169,North,Laptop Stand,Accessories,25.0,4,0.1,90.0,59.0,31.0
+ORD100346,2024-01-08,Customer_155,Central,Smartphone Case,Accessories,10.0,3,0.0,30.0,24.6,5.4
+ORD101057,2024-03-23,Customer_120,North,Wireless Mouse,Electronics,15.0,1,0.0,15.0,8.25,6.75
+ORD100304,2023-06-10,Customer_29,Central,Office Chair,Furniture,120.0,3,0.0,360.0,219.6,140.4
+ORD100036,2024-04-20,Customer_96,West,USB-C Cable,Electronics,8.0,3,0.0,24.0,13.44,10.56
+ORD100042,2023-09-01,Customer_182,West,Laptop Stand,Accessories,25.0,3,0.0,75.0,54.0,21.0
+ORD100606,2023-06-17,Customer_287,South,Mechanical Keyboard,Electronics,70.0,2,0.2,112.0,119.0,-7.0
+ORD100702,2024-06-23,Customer_77,North,Wireless Mouse,Electronics,15.0,3,0.05,42.75,33.75,9.0
+ORD100946,2024-06-26,Customer_266,North,Notebook,Stationery,3.0,4,0.1,10.8,9.12,1.68
+ORD100757,2024-11-15,Customer_291,South,Laptop Stand,Accessories,25.0,6,0.0,150.0,111.0,39.0
+ORD100459,2023-06-03,Customer_228,Central,USB-C Cable,Electronics,8.0,1,0.0,8.0,5.36,2.64
+ORD100423,2023-12-16,Customer_92,North,Bluetooth Speaker,Electronics,55.0,2,0.3,77.0,68.2,8.8
+ORD101199,2024-04-21,Customer_219,East,Bluetooth Speaker,Electronics,55.0,2,0.05,104.5,92.4,12.1
+ORD100614,2024-02-26,Customer_257,South,Bluetooth Speaker,Electronics,55.0,3,0.05,156.75,92.4,64.35
+ORD100294,2023-04-22,Customer_160,North,Notebook,Stationery,3.0,6,0.3,12.6,13.32,-0.72
+ORD100585,2023-04-19,Customer_100,East,Desk Lamp,Furniture,18.0,2,0.0,36.0,23.76,12.24
+ORD100026,2023-06-10,Customer_54,West,Mechanical Keyboard,Electronics,70.0,3,0.05,199.5,132.3,67.2
+ORD100956,2024-10-07,Customer_25,North,USB-C Cable,Electronics,8.0,2,0.05,15.2,12.48,2.72
+ORD101007,2023-08-24,Customer_191,West,Notebook,Stationery,3.0,3,0.0,9.0,6.39,2.61
+ORD100853,2023-08-27,Customer_196,North,Router,Electronics,60.0,3,0.0,180.0,140.4,39.6
+ORD100510,2023-10-12,Customer_262,West,USB-C Cable,Electronics,8.0,4,0.15,27.2,17.6,9.6
+ORD100982,2023-11-16,Customer_267,North,Notebook,Stationery,3.0,2,0.1,5.4,4.32,1.08
+ORD100353,2023-10-29,Customer_31,East,Notebook,Stationery,3.0,2,0.1,5.4,4.74,0.66
+ORD101038,2024-11-21,Customer_117,West,Pen Set,Stationery,5.0,6,0.2,24.0,25.2,-1.2
+ORD100055,2023-12-12,Customer_2,North,USB-C Cable,Electronics,8.0,3,0.0,24.0,16.8,7.2
+ORD100463,2024-11-27,Customer_117,North,"Monitor 24""",Electronics,130.0,4,0.05,494.0,343.2,150.8
+ORD100216,2023-08-13,Customer_171,South,Mechanical Keyboard,Electronics,70.0,4,0.05,266.0,176.4,89.6
+ORD100745,2023-01-23,Customer_203,North,Webcam HD,Electronics,45.0,4,0.0,180.0,120.6,59.4
+ORD100040,2024-07-16,Customer_120,West,Notebook,Stationery,3.0,1,0.0,3.0,1.8,1.2
+ORD100396,2023-05-23,Customer_164,Central,Webcam HD,Electronics,45.0,4,0.0,180.0,99.0,81.0
+ORD101178,2023-12-27,Customer_118,East,Bluetooth Speaker,Electronics,55.0,2,0.05,104.5,92.4,12.1
+ORD101055,2023-06-28,Customer_192,North,SSD 1TB,Electronics,110.0,4,0.0,440.0,299.2,140.8
+ORD101010,2024-04-03,Customer_7,East,Webcam HD,Electronics,45.0,4,0.15,153.0,118.8,34.2
+ORD100961,2024-03-16,Customer_68,South,Desk Lamp,Furniture,18.0,2,0.1,32.4,29.16,3.24
+ORD101083,2023-01-15,Customer_43,South,Laptop Stand,Accessories,25.0,5,0.0,125.0,85.0,40.0
+ORD100178,2024-09-24,Customer_264,South,SSD 1TB,Electronics,110.0,5,0.0,550.0,346.5,203.5
+ORD100176,2024-01-12,Customer_80,North,Mechanical Keyboard,Electronics,70.0,3,0.1,189.0,168.0,21.0
+ORD100507,2023-06-17,Customer_106,South,SSD 1TB,Electronics,110.0,3,0.1,297.0,267.3,29.7
+ORD100570,2024-07-17,Customer_262,South,Webcam HD,Electronics,45.0,5,0.2,180.0,189.0,-9.0
+ORD101066,2023-06-06,Customer_232,North,Notebook,Stationery,3.0,2,0.0,6.0,3.6,2.4
+ORD100300,2024-12-06,Customer_98,East,USB-C Cable,Electronics,8.0,3,0.0,24.0,19.68,4.32
+ORD101150,2023-09-01,Customer_126,East,SSD 1TB,Electronics,110.0,5,0.0,550.0,401.5,148.5
+ORD101119,2023-05-13,Customer_258,East,Router,Electronics,60.0,3,0.0,180.0,100.8,79.2
+ORD100852,2023-08-02,Customer_70,South,Wireless Mouse,Electronics,15.0,3,0.1,40.5,30.15,10.35
+ORD100990,2023-09-18,Customer_190,South,"Monitor 24""",Electronics,130.0,2,0.0,260.0,153.4,106.6
+ORD100816,2024-10-24,Customer_119,North,USB-C Cable,Electronics,8.0,4,0.15,27.2,18.56,8.64
+ORD100518,2024-12-27,Customer_111,Central,Router,Electronics,60.0,3,0.0,180.0,131.4,48.6
+ORD100737,2024-05-25,Customer_271,East,Laptop Stand,Accessories,25.0,3,0.0,75.0,46.5,28.5
+ORD100909,2023-08-21,Customer_142,West,Pen Set,Stationery,5.0,5,0.0,25.0,17.5,7.5
+ORD101181,2024-09-21,Customer_30,South,Smartphone Case,Accessories,10.0,2,0.0,20.0,13.4,6.6
+ORD101132,2024-02-09,Customer_124,North,Laptop Stand,Accessories,25.0,5,0.05,118.75,80.0,38.75
+ORD100029,2023-01-22,Customer_229,North,Office Chair,Furniture,120.0,1,0.05,114.0,84.0,30.0
+ORD100561,2024-09-03,Customer_152,North,Office Chair,Furniture,120.0,2,0.0,240.0,163.2,76.8
+ORD101075,2024-06-05,Customer_79,South,Office Chair,Furniture,120.0,4,0.05,456.0,364.8,91.2
+ORD100669,2024-11-06,Customer_157,East,Notebook,Stationery,3.0,2,0.15,5.1,3.72,1.38
+ORD101094,2024-09-18,Customer_28,South,Router,Electronics,60.0,5,0.0,300.0,189.0,111.0
+ORD100203,2024-05-24,Customer_215,South,Smartphone Case,Accessories,10.0,2,0.0,20.0,12.6,7.4
+ORD100444,2024-05-27,Customer_8,Central,Smartphone Case,Accessories,10.0,4,0.2,32.0,23.6,8.4
+ORD100371,2023-10-15,Customer_223,West,Wireless Mouse,Electronics,15.0,2,0.3,21.0,17.4,3.6
+ORD100032,2024-04-19,Customer_97,North,USB-C Cable,Electronics,8.0,2,0.0,16.0,11.52,4.48
+ORD100877,2023-12-31,Customer_264,North,Mechanical Keyboard,Electronics,70.0,4,0.0,280.0,190.4,89.6
+ORD100334,2024-10-20,Customer_216,North,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,88.2,51.8
+ORD100382,2024-04-21,Customer_242,North,USB-C Cable,Electronics,8.0,3,0.0,24.0,15.6,8.4
+ORD100749,2024-04-02,Customer_141,West,Smartphone Case,Accessories,10.0,1,0.1,9.0,7.9,1.1
+ORD100824,2023-07-14,Customer_78,East,Desk Lamp,Furniture,18.0,1,0.0,18.0,15.12,2.88
+ORD100372,2024-10-24,Customer_188,East,Desk Lamp,Furniture,18.0,2,0.1,32.4,25.92,6.48
+ORD100869,2023-02-25,Customer_215,North,Webcam HD,Electronics,45.0,3,0.1,121.5,106.65,14.85
+ORD100656,2024-02-13,Customer_285,Central,Mechanical Keyboard,Electronics,70.0,2,0.15,119.0,81.2,37.8
+ORD100003,2023-04-17,Customer_18,Central,USB-C Cable,Electronics,8.0,4,0.1,28.8,18.24,10.56
+ORD100668,2023-08-17,Customer_264,East,Laptop Stand,Accessories,25.0,6,0.15,127.5,91.5,36.0
+ORD100642,2024-09-29,Customer_245,East,Router,Electronics,60.0,1,0.1,54.0,43.2,10.8
+ORD100429,2023-04-16,Customer_58,West,Desk Lamp,Furniture,18.0,6,0.1,97.2,79.92,17.28
+ORD100893,2023-01-28,Customer_279,North,Webcam HD,Electronics,45.0,3,0.0,135.0,102.6,32.4
+ORD101144,2023-07-21,Customer_39,Central,Router,Electronics,60.0,3,0.2,144.0,117.0,27.0
+ORD100445,2023-04-06,Customer_79,West,Wireless Mouse,Electronics,15.0,2,0.0,30.0,24.3,5.7
+ORD100041,2024-07-20,Customer_165,East,SSD 1TB,Electronics,110.0,2,0.3,154.0,160.6,-6.6
+ORD100222,2024-11-14,Customer_161,East,USB-C Cable,Electronics,8.0,5,0.1,36.0,25.6,10.4
+ORD101121,2023-04-16,Customer_181,East,Smartphone Case,Accessories,10.0,3,0.0,30.0,17.1,12.9
+ORD100727,2023-08-27,Customer_85,Central,SSD 1TB,Electronics,110.0,3,0.1,297.0,273.9,23.1
+ORD100859,2023-12-03,Customer_160,West,Bluetooth Speaker,Electronics,55.0,4,0.0,220.0,184.8,35.2
+ORD100113,2024-05-04,Customer_98,Central,"Monitor 24""",Electronics,130.0,5,0.2,520.0,468.0,52.0
+ORD100048,2023-06-16,Customer_85,North,Bluetooth Speaker,Electronics,55.0,4,0.05,209.0,140.8,68.2
+ORD100289,2024-02-24,Customer_178,South,Laptop Stand,Accessories,25.0,3,0.1,67.5,63.0,4.5
+ORD100076,2024-07-09,Customer_224,South,Desk Lamp,Furniture,18.0,7,0.0,126.0,71.82,54.18
+ORD100206,2023-04-23,Customer_103,West,Wireless Mouse,Electronics,15.0,3,0.2,36.0,27.9,8.1
+ORD100784,2024-03-10,Customer_214,West,Wireless Mouse,Electronics,15.0,4,0.0,60.0,38.4,21.6
+ORD100123,2024-07-27,Customer_181,North,Smartphone Case,Accessories,10.0,2,0.3,14.0,15.2,-1.2
+ORD101052,2024-10-07,Customer_42,East,Desk Lamp,Furniture,18.0,1,0.2,14.4,11.88,2.52
+ORD100386,2024-06-08,Customer_12,West,External HDD,Electronics,85.0,3,0.0,255.0,196.35,58.65
+ORD100225,2024-12-10,Customer_227,North,Webcam HD,Electronics,45.0,2,0.05,85.5,74.7,10.8
+ORD100837,2024-06-17,Customer_188,South,Pen Set,Stationery,5.0,4,0.0,20.0,13.0,7.0
+ORD100632,2023-06-16,Customer_251,West,SSD 1TB,Electronics,110.0,1,0.0,110.0,70.4,39.6
+ORD100756,2023-02-20,Customer_156,Central,USB-C Cable,Electronics,8.0,3,0.15,20.4,14.64,5.76
+ORD100221,2023-02-22,Customer_210,North,Router,Electronics,60.0,2,0.05,114.0,91.2,22.8
+ORD101100,2023-09-11,Customer_38,Central,Desk Lamp,Furniture,18.0,3,0.15,45.9,39.96,5.94
+ORD101086,2023-09-18,Customer_17,East,"Monitor 24""",Electronics,130.0,3,0.0,390.0,300.3,89.7
+ORD100617,2024-05-10,Customer_264,North,USB-C Cable,Electronics,8.0,3,0.0,24.0,19.92,4.08
+ORD100190,2024-11-14,Customer_47,South,Smartphone Case,Accessories,10.0,2,0.1,18.0,15.6,2.4
+ORD100704,2024-12-04,Customer_98,West,Wireless Mouse,Electronics,15.0,2,0.05,28.5,19.8,8.7
+ORD101159,2024-06-12,Customer_150,North,Router,Electronics,60.0,2,0.0,120.0,98.4,21.6
+ORD100161,2024-07-27,Customer_25,West,Pen Set,Stationery,5.0,6,0.1,27.0,25.2,1.8
+ORD100673,2024-03-16,Customer_290,East,"Monitor 24""",Electronics,130.0,3,0.0,390.0,300.3,89.7
+ORD100408,2024-07-23,Customer_4,West,Notebook,Stationery,3.0,4,0.2,9.6,6.6,3.0
+ORD100629,2024-02-19,Customer_156,North,Pen Set,Stationery,5.0,2,0.0,10.0,7.3,2.7
+ORD100926,2023-11-16,Customer_239,North,Bluetooth Speaker,Electronics,55.0,4,0.15,187.0,129.8,57.2
+ORD100325,2024-03-13,Customer_224,West,Bluetooth Speaker,Electronics,55.0,3,0.05,156.75,117.15,39.6
+ORD100967,2023-06-22,Customer_92,North,Router,Electronics,60.0,1,0.1,54.0,34.2,19.8
+ORD100964,2024-01-27,Customer_288,North,SSD 1TB,Electronics,110.0,2,0.0,220.0,145.2,74.8
+ORD100671,2024-10-20,Customer_86,South,Wireless Mouse,Electronics,15.0,3,0.1,40.5,32.85,7.65
+ORD101125,2023-01-29,Customer_226,East,USB-C Cable,Electronics,8.0,3,0.0,24.0,17.04,6.96
+ORD100646,2024-03-31,Customer_206,North,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,89.6,50.4
+ORD100667,2023-07-22,Customer_129,West,Wireless Mouse,Electronics,15.0,5,0.05,71.25,57.75,13.5
+ORD100139,2024-07-07,Customer_111,North,USB-C Cable,Electronics,8.0,4,0.1,28.8,25.92,2.88
+ORD100786,2024-02-26,Customer_26,East,Bluetooth Speaker,Electronics,55.0,4,0.0,220.0,167.2,52.8
+ORD100966,2024-03-10,Customer_96,South,Mechanical Keyboard,Electronics,70.0,4,0.0,280.0,168.0,112.0
+ORD100572,2024-01-02,Customer_243,Central,External HDD,Electronics,85.0,3,0.0,255.0,163.2,91.8
+ORD100352,2024-05-11,Customer_249,South,Smartphone Case,Accessories,10.0,7,0.0,70.0,53.2,16.8
+ORD101120,2023-05-07,Customer_269,West,Pen Set,Stationery,5.0,2,0.0,10.0,5.7,4.3
+ORD100165,2024-07-09,Customer_229,North,Notebook,Stationery,3.0,3,0.05,8.55,6.39,2.16
+ORD100214,2023-08-08,Customer_131,North,Router,Electronics,60.0,3,0.15,153.0,117.0,36.0
+ORD101105,2023-12-12,Customer_256,Central,Desk Lamp,Furniture,18.0,3,0.3,37.8,32.94,4.86
+ORD100297,2023-04-09,Customer_120,West,Desk Lamp,Furniture,18.0,2,0.0,36.0,27.36,8.64
+ORD100394,2024-10-15,Customer_285,North,Webcam HD,Electronics,45.0,1,0.1,40.5,30.6,9.9
+ORD100131,2024-10-04,Customer_164,Central,Wireless Mouse,Electronics,15.0,1,0.0,15.0,8.55,6.45
+ORD100138,2023-01-15,Customer_55,East,Laptop Stand,Accessories,25.0,2,0.0,50.0,41.5,8.5
+ORD100899,2024-04-18,Customer_121,Central,Notebook,Stationery,3.0,4,0.15,10.2,9.48,0.72
+ORD100341,2023-06-21,Customer_269,West,Pen Set,Stationery,5.0,4,0.0,20.0,16.2,3.8
+ORD100416,2023-09-21,Customer_130,North,USB-C Cable,Electronics,8.0,3,0.1,21.6,19.2,2.4
+ORD100807,2024-05-22,Customer_146,West,Router,Electronics,60.0,3,0.0,180.0,135.0,45.0
+ORD100038,2023-07-09,Customer_78,South,Pen Set,Stationery,5.0,2,0.0,10.0,7.7,2.3
+ORD100249,2024-05-25,Customer_146,East,Wireless Mouse,Electronics,15.0,5,0.05,71.25,45.0,26.25
+ORD100721,2023-01-05,Customer_291,North,Wireless Mouse,Electronics,15.0,5,0.0,75.0,42.75,32.25
+ORD100053,2023-01-14,Customer_188,East,Pen Set,Stationery,5.0,3,0.1,13.5,10.95,2.55
+ORD100706,2023-05-25,Customer_132,Central,Pen Set,Stationery,5.0,5,0.3,17.5,18.5,-1.0
+ORD100136,2024-01-28,Customer_227,South,Laptop Stand,Accessories,25.0,4,0.05,95.0,84.0,11.0
+ORD100945,2023-08-31,Customer_256,North,Router,Electronics,60.0,3,0.15,153.0,151.2,1.8
+ORD100963,2024-12-15,Customer_12,North,Webcam HD,Electronics,45.0,2,0.1,81.0,74.7,6.3
+ORD100035,2024-11-12,Customer_291,West,"Monitor 24""",Electronics,130.0,2,0.0,260.0,213.2,46.8
+ORD100780,2023-07-26,Customer_47,Central,Webcam HD,Electronics,45.0,4,0.05,171.0,129.6,41.4
+ORD100657,2023-04-27,Customer_185,South,Desk Lamp,Furniture,18.0,3,0.05,51.3,40.5,10.8
+ORD100378,2024-01-28,Customer_222,North,Router,Electronics,60.0,2,0.15,102.0,94.8,7.2
+ORD100922,2024-09-04,Customer_143,South,Laptop Stand,Accessories,25.0,3,0.0,75.0,61.5,13.5
+ORD100578,2024-04-13,Customer_237,North,Router,Electronics,60.0,1,0.0,60.0,34.8,25.2
+ORD100813,2023-05-06,Customer_108,North,Desk Lamp,Furniture,18.0,4,0.0,72.0,41.76,30.24
+ORD100747,2024-11-07,Customer_271,North,Notebook,Stationery,3.0,1,0.05,2.85,1.74,1.11
+ORD101183,2024-04-20,Customer_108,South,External HDD,Electronics,85.0,3,0.3,178.5,153.0,25.5
+ORD100052,2023-11-12,Customer_285,Central,Pen Set,Stationery,5.0,2,0.0,10.0,7.0,3.0
+ORD100377,2023-04-14,Customer_60,South,Webcam HD,Electronics,45.0,3,0.0,135.0,93.15,41.85
+ORD100210,2024-11-29,Customer_152,West,Notebook,Stationery,3.0,7,0.2,16.8,15.54,1.26
+ORD100861,2023-09-14,Customer_264,North,Bluetooth Speaker,Electronics,55.0,4,0.05,209.0,180.4,28.6
+ORD100302,2024-12-20,Customer_105,Central,Pen Set,Stationery,5.0,4,0.0,20.0,15.8,4.2
+ORD100246,2024-10-21,Customer_3,East,Router,Electronics,60.0,4,0.0,240.0,148.8,91.2
+ORD101186,2023-12-26,Customer_229,East,USB-C Cable,Electronics,8.0,2,0.0,16.0,13.44,2.56
+ORD100425,2024-10-17,Customer_84,East,Router,Electronics,60.0,6,0.0,360.0,266.4,93.6
+ORD100844,2023-02-15,Customer_167,West,Desk Lamp,Furniture,18.0,3,0.0,54.0,42.12,11.88
+ORD100028,2023-11-10,Customer_239,North,Wireless Mouse,Electronics,15.0,4,0.1,54.0,45.6,8.4
+ORD100888,2024-05-20,Customer_136,East,Smartphone Case,Accessories,10.0,2,0.0,20.0,11.0,9.0
+ORD100929,2024-01-12,Customer_166,West,Laptop Stand,Accessories,25.0,3,0.0,75.0,46.5,28.5
+ORD100244,2024-04-08,Customer_65,North,Bluetooth Speaker,Electronics,55.0,1,0.05,52.25,43.45,8.8
+ORD100103,2024-04-16,Customer_165,South,External HDD,Electronics,85.0,5,0.0,425.0,246.5,178.5
+ORD100276,2023-08-21,Customer_259,East,USB-C Cable,Electronics,8.0,2,0.1,14.4,10.72,3.68
+ORD100393,2024-02-04,Customer_175,South,Office Chair,Furniture,120.0,3,0.3,252.0,237.6,14.4
+ORD100110,2024-02-23,Customer_134,North,Smartphone Case,Accessories,10.0,6,0.05,57.0,43.8,13.2
+ORD100795,2023-06-15,Customer_208,Central,External HDD,Electronics,85.0,4,0.0,340.0,217.6,122.4
+ORD100159,2024-11-12,Customer_104,East,Wireless Mouse,Electronics,15.0,5,0.2,60.0,46.5,13.5
+ORD100112,2024-01-14,Customer_168,Central,Notebook,Stationery,3.0,3,0.0,9.0,7.38,1.62
+ORD100806,2023-11-26,Customer_202,North,Pen Set,Stationery,5.0,3,0.0,15.0,8.85,6.15
+ORD100660,2024-07-09,Customer_184,West,Laptop Stand,Accessories,25.0,4,0.0,100.0,80.0,20.0
+ORD100810,2023-02-22,Customer_69,East,Desk Lamp,Furniture,18.0,2,0.3,25.2,25.2,0.0
+ORD100969,2024-10-06,Customer_31,East,Webcam HD,Electronics,45.0,2,0.1,81.0,54.9,26.1
+ORD100329,2023-10-04,Customer_40,Central,Wireless Mouse,Electronics,15.0,4,0.05,57.0,36.0,21.0
+ORD100262,2024-09-02,Customer_226,East,Bluetooth Speaker,Electronics,55.0,1,0.0,55.0,37.95,17.05
+ORD100735,2023-04-15,Customer_293,East,SSD 1TB,Electronics,110.0,4,0.0,440.0,294.8,145.2
+ORD100133,2023-08-06,Customer_187,West,Smartphone Case,Accessories,10.0,3,0.0,30.0,18.6,11.4
+ORD100637,2023-05-06,Customer_285,Central,Bluetooth Speaker,Electronics,55.0,3,0.05,156.75,123.75,33.0
+ORD100685,2024-10-17,Customer_147,East,Notebook,Stationery,3.0,2,0.0,6.0,3.78,2.22
+ORD101081,2023-08-04,Customer_200,South,External HDD,Electronics,85.0,3,0.0,255.0,160.65,94.35
+ORD100167,2023-11-27,Customer_172,Central,Desk Lamp,Furniture,18.0,4,0.0,72.0,56.88,15.12
+ORD101118,2023-11-20,Customer_140,East,External HDD,Electronics,85.0,1,0.2,68.0,49.3,18.7
+ORD101040,2024-02-26,Customer_196,North,Mechanical Keyboard,Electronics,70.0,2,0.1,126.0,117.6,8.4
+ORD100154,2023-06-09,Customer_296,Central,USB-C Cable,Electronics,8.0,1,0.05,7.6,6.0,1.6
+ORD100050,2024-01-23,Customer_112,West,"Monitor 24""",Electronics,130.0,2,0.2,208.0,156.0,52.0
+ORD100024,2023-07-11,Customer_247,South,Wireless Mouse,Electronics,15.0,1,0.0,15.0,9.0,6.0
+ORD101130,2024-02-11,Customer_183,North,Webcam HD,Electronics,45.0,1,0.0,45.0,26.1,18.9
+ORD100443,2024-09-25,Customer_93,North,SSD 1TB,Electronics,110.0,4,0.0,440.0,268.4,171.6
+ORD100755,2023-01-01,Customer_239,East,External HDD,Electronics,85.0,2,0.0,170.0,115.6,54.4
+ORD101028,2024-07-27,Customer_242,Central,"Monitor 24""",Electronics,130.0,2,0.0,260.0,169.0,91.0
+ORD100150,2023-06-20,Customer_201,East,Pen Set,Stationery,5.0,2,0.0,10.0,8.4,1.6
+ORD100553,2023-03-03,Customer_207,South,External HDD,Electronics,85.0,4,0.15,289.0,190.4,98.6
+ORD100094,2024-05-07,Customer_215,South,Pen Set,Stationery,5.0,1,0.0,5.0,4.0,1.0
+ORD101082,2024-11-26,Customer_87,Central,Pen Set,Stationery,5.0,2,0.2,8.0,7.0,1.0
+ORD100217,2024-01-20,Customer_183,East,Office Chair,Furniture,120.0,1,0.0,120.0,92.4,27.6
+ORD100645,2024-04-20,Customer_179,East,Office Chair,Furniture,120.0,5,0.3,420.0,378.0,42.0
+ORD100381,2023-02-08,Customer_196,North,Office Chair,Furniture,120.0,1,0.0,120.0,80.4,39.6
+ORD100023,2024-01-21,Customer_8,Central,Bluetooth Speaker,Electronics,55.0,1,0.2,44.0,34.65,9.35
+ORD100292,2023-09-11,Customer_216,North,Desk Lamp,Furniture,18.0,2,0.0,36.0,21.96,14.04
+ORD100712,2023-09-10,Customer_89,North,Pen Set,Stationery,5.0,3,0.0,15.0,12.45,2.55
+ORD100173,2023-07-09,Customer_17,West,Router,Electronics,60.0,1,0.0,60.0,47.4,12.6
+ORD100100,2023-12-10,Customer_41,Central,SSD 1TB,Electronics,110.0,2,0.0,220.0,151.8,68.2
+ORD100025,2023-10-04,Customer_255,South,External HDD,Electronics,85.0,3,0.2,204.0,168.3,35.7
+ORD100603,2024-06-02,Customer_229,South,Desk Lamp,Furniture,18.0,4,0.3,50.4,57.6,-7.2
+ORD100339,2024-05-26,Customer_59,South,Wireless Mouse,Electronics,15.0,4,0.0,60.0,46.2,13.8
+ORD100783,2023-03-16,Customer_277,South,Notebook,Stationery,3.0,3,0.0,9.0,5.31,3.69
+ORD100833,2023-01-05,Customer_125,North,Pen Set,Stationery,5.0,2,0.0,10.0,8.5,1.5
+ORD100907,2024-01-29,Customer_38,Central,Router,Electronics,60.0,3,0.0,180.0,117.0,63.0
+ORD100489,2024-05-30,Customer_148,North,USB-C Cable,Electronics,8.0,3,0.0,24.0,14.88,9.12
+ORD100843,2023-12-12,Customer_288,South,Smartphone Case,Accessories,10.0,1,0.2,8.0,6.6,1.4
+ORD100734,2024-09-01,Customer_133,East,Laptop Stand,Accessories,25.0,1,0.2,20.0,17.75,2.25
+ORD100915,2024-04-14,Customer_258,West,Desk Lamp,Furniture,18.0,3,0.0,54.0,39.42,14.58
+ORD100700,2023-11-12,Customer_73,West,External HDD,Electronics,85.0,1,0.0,85.0,64.6,20.4
+ORD100354,2023-06-30,Customer_23,Central,Laptop Stand,Accessories,25.0,4,0.0,100.0,65.0,35.0
+ORD100829,2023-03-02,Customer_263,North,Webcam HD,Electronics,45.0,2,0.05,85.5,57.6,27.9
+ORD100750,2023-03-24,Customer_275,South,Webcam HD,Electronics,45.0,5,0.15,191.25,175.5,15.75
+ORD101046,2023-08-13,Customer_232,North,Desk Lamp,Furniture,18.0,3,0.0,54.0,34.02,19.98
+ORD100588,2023-07-05,Customer_298,Central,Mechanical Keyboard,Electronics,70.0,3,0.0,210.0,117.6,92.4
+ORD100242,2023-07-06,Customer_239,South,External HDD,Electronics,85.0,2,0.0,170.0,144.5,25.5
+ORD100168,2024-10-01,Customer_102,West,External HDD,Electronics,85.0,2,0.1,153.0,110.5,42.5
+ORD100073,2024-12-03,Customer_59,West,Desk Lamp,Furniture,18.0,3,0.0,54.0,38.88,15.12
+ORD100559,2023-01-19,Customer_220,West,Laptop Stand,Accessories,25.0,3,0.0,75.0,56.25,18.75
+ORD101053,2024-08-01,Customer_113,South,External HDD,Electronics,85.0,4,0.0,340.0,272.0,68.0
+ORD101197,2023-11-01,Customer_10,Central,Router,Electronics,60.0,5,0.1,270.0,174.0,96.0
+ORD100118,2023-07-20,Customer_122,North,Smartphone Case,Accessories,10.0,5,0.2,40.0,32.0,8.0
+ORD100782,2024-07-31,Customer_118,North,Office Chair,Furniture,120.0,4,0.0,480.0,379.2,100.8
+ORD100114,2023-08-19,Customer_268,North,Router,Electronics,60.0,3,0.0,180.0,145.8,34.2
+ORD100520,2024-08-27,Customer_7,East,Desk Lamp,Furniture,18.0,3,0.15,45.9,41.58,4.32
+ORD100901,2024-06-20,Customer_149,South,Notebook,Stationery,3.0,1,0.0,3.0,1.83,1.17
+ORD100005,2024-12-01,Customer_78,South,Bluetooth Speaker,Electronics,55.0,4,0.1,198.0,132.0,66.0
+ORD100475,2024-07-04,Customer_217,West,Notebook,Stationery,3.0,7,0.0,21.0,12.81,8.19
+ORD101002,2024-02-23,Customer_124,Central,SSD 1TB,Electronics,110.0,2,0.15,187.0,171.6,15.4
+ORD101168,2023-06-10,Customer_50,West,Office Chair,Furniture,120.0,3,0.15,306.0,216.0,90.0
+ORD100069,2024-01-25,Customer_81,West,Mechanical Keyboard,Electronics,70.0,4,0.0,280.0,190.4,89.6
+ORD100014,2024-01-08,Customer_55,North,Smartphone Case,Accessories,10.0,5,0.0,50.0,30.0,20.0
+ORD100228,2024-03-14,Customer_251,South,Desk Lamp,Furniture,18.0,3,0.0,54.0,41.58,12.42
+ORD100884,2024-09-14,Customer_121,East,Laptop Stand,Accessories,25.0,3,0.2,60.0,47.25,12.75
+ORD100369,2024-11-16,Customer_233,Central,Bluetooth Speaker,Electronics,55.0,5,0.05,261.25,184.25,77.0
+ORD100078,2023-07-21,Customer_115,East,Desk Lamp,Furniture,18.0,3,0.05,51.3,41.04,10.26
+ORD101145,2024-03-11,Customer_268,East,Smartphone Case,Accessories,10.0,3,0.1,27.0,20.4,6.6
+ORD100873,2023-01-28,Customer_209,North,Laptop Stand,Accessories,25.0,6,0.0,150.0,90.0,60.0
+ORD100479,2023-12-23,Customer_214,South,Wireless Mouse,Electronics,15.0,2,0.15,25.5,17.7,7.8
+ORD100516,2024-05-13,Customer_178,Central,USB-C Cable,Electronics,8.0,1,0.0,8.0,6.8,1.2
+ORD101109,2023-08-06,Customer_105,South,Router,Electronics,60.0,4,0.0,240.0,182.4,57.6
+ORD100652,2024-05-19,Customer_251,East,Mechanical Keyboard,Electronics,70.0,2,0.05,133.0,81.2,51.8
+ORD100054,2023-08-30,Customer_82,East,Laptop Stand,Accessories,25.0,3,0.2,60.0,52.5,7.5
+ORD100467,2023-02-16,Customer_209,South,Laptop Stand,Accessories,25.0,3,0.0,75.0,42.75,32.25
+ORD100266,2024-09-15,Customer_260,South,External HDD,Electronics,85.0,5,0.1,382.5,352.75,29.75
+ORD101161,2023-06-28,Customer_22,South,USB-C Cable,Electronics,8.0,1,0.0,8.0,6.48,1.52
+ORD100817,2023-07-02,Customer_149,East,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,119.0,21.0
+ORD100583,2024-07-22,Customer_282,East,Notebook,Stationery,3.0,4,0.1,10.8,8.16,2.64
+ORD100766,2024-07-04,Customer_90,Central,Smartphone Case,Accessories,10.0,1,0.05,9.5,8.0,1.5
+ORD100514,2023-10-29,Customer_204,West,External HDD,Electronics,85.0,2,0.0,170.0,102.0,68.0
+ORD101153,2023-03-16,Customer_151,East,Bluetooth Speaker,Electronics,55.0,2,0.0,110.0,83.6,26.4
+ORD100728,2023-06-26,Customer_282,Central,Pen Set,Stationery,5.0,4,0.0,20.0,16.8,3.2
+ORD100059,2024-01-02,Customer_195,South,External HDD,Electronics,85.0,3,0.2,204.0,173.4,30.6
+ORD100503,2024-09-04,Customer_90,South,Wireless Mouse,Electronics,15.0,3,0.05,42.75,26.55,16.2
+ORD100864,2023-09-10,Customer_50,East,SSD 1TB,Electronics,110.0,2,0.0,220.0,127.6,92.4
+ORD100166,2023-12-06,Customer_108,South,SSD 1TB,Electronics,110.0,1,0.0,110.0,84.7,25.3
+ORD100995,2024-10-03,Customer_260,South,"Monitor 24""",Electronics,130.0,4,0.2,416.0,400.4,15.6
+ORD100958,2024-08-28,Customer_117,North,Bluetooth Speaker,Electronics,55.0,5,0.1,247.5,200.75,46.75
+ORD100331,2023-10-11,Customer_237,Central,Router,Electronics,60.0,3,0.0,180.0,129.6,50.4
+ORD101134,2024-09-13,Customer_278,East,Office Chair,Furniture,120.0,5,0.15,510.0,354.0,156.0
+ORD100500,2024-06-28,Customer_103,North,USB-C Cable,Electronics,8.0,2,0.0,16.0,10.08,5.92
+ORD100247,2024-02-07,Customer_142,North,SSD 1TB,Electronics,110.0,2,0.2,176.0,169.4,6.6
+ORD100373,2024-09-30,Customer_163,West,Wireless Mouse,Electronics,15.0,3,0.2,36.0,37.35,-1.35
+ORD101041,2023-01-23,Customer_34,West,Notebook,Stationery,3.0,3,0.1,8.1,6.93,1.17
+ORD100472,2024-04-18,Customer_166,North,Desk Lamp,Furniture,18.0,2,0.1,32.4,25.92,6.48
+ORD100499,2024-01-15,Customer_154,South,Office Chair,Furniture,120.0,1,0.0,120.0,88.8,31.2
+ORD100911,2023-05-26,Customer_151,South,USB-C Cable,Electronics,8.0,4,0.0,32.0,26.24,5.76
+ORD100954,2023-03-16,Customer_110,North,Office Chair,Furniture,120.0,2,0.0,240.0,187.2,52.8
+ORD100636,2023-02-08,Customer_282,South,External HDD,Electronics,85.0,2,0.15,144.5,108.8,35.7
+ORD100616,2024-10-09,Customer_276,South,Office Chair,Furniture,120.0,3,0.05,342.0,262.8,79.2
+ORD100563,2024-03-20,Customer_177,East,Laptop Stand,Accessories,25.0,4,0.0,100.0,73.0,27.0
+ORD100307,2023-10-04,Customer_226,North,Office Chair,Furniture,120.0,2,0.1,216.0,144.0,72.0
+ORD100560,2023-06-26,Customer_20,West,SSD 1TB,Electronics,110.0,2,0.0,220.0,169.4,50.6
+ORD101106,2023-10-29,Customer_49,Central,Router,Electronics,60.0,4,0.3,168.0,192.0,-24.0
+ORD100720,2023-09-08,Customer_224,West,Desk Lamp,Furniture,18.0,5,0.1,81.0,68.4,12.6
+ORD100566,2023-09-22,Customer_250,East,Bluetooth Speaker,Electronics,55.0,4,0.0,220.0,151.8,68.2
+ORD100501,2024-11-21,Customer_194,West,USB-C Cable,Electronics,8.0,1,0.0,8.0,6.4,1.6
+ORD100997,2023-11-17,Customer_103,West,Desk Lamp,Furniture,18.0,3,0.0,54.0,31.32,22.68
+ORD100234,2023-10-07,Customer_227,North,External HDD,Electronics,85.0,2,0.05,161.5,112.2,49.3
+ORD100626,2023-05-12,Customer_165,Central,Office Chair,Furniture,120.0,3,0.0,360.0,201.6,158.4
+ORD101030,2024-08-23,Customer_181,South,USB-C Cable,Electronics,8.0,4,0.0,32.0,23.36,8.64
+ORD100430,2024-10-31,Customer_15,West,Notebook,Stationery,3.0,2,0.2,4.8,3.84,0.96
+ORD101113,2024-09-14,Customer_190,North,SSD 1TB,Electronics,110.0,3,0.1,297.0,277.2,19.8
+ORD101160,2024-10-01,Customer_235,East,External HDD,Electronics,85.0,5,0.1,382.5,293.25,89.25
+ORD100191,2024-10-25,Customer_288,North,Notebook,Stationery,3.0,3,0.05,8.55,6.12,2.43
+ORD100879,2024-06-09,Customer_36,Central,Wireless Mouse,Electronics,15.0,1,0.15,12.75,9.6,3.15
+ORD100151,2024-06-24,Customer_154,West,External HDD,Electronics,85.0,6,0.05,484.5,321.3,163.2
+ORD100691,2024-10-29,Customer_220,East,Smartphone Case,Accessories,10.0,4,0.1,36.0,32.8,3.2
+ORD100435,2023-02-27,Customer_12,West,Webcam HD,Electronics,45.0,1,0.1,40.5,36.45,4.05
+ORD100836,2024-11-12,Customer_280,West,Webcam HD,Electronics,45.0,1,0.15,38.25,29.25,9.0
+ORD100666,2023-08-01,Customer_8,North,Webcam HD,Electronics,45.0,2,0.2,72.0,56.7,15.3
+ORD100256,2023-12-04,Customer_293,East,External HDD,Electronics,85.0,1,0.0,85.0,68.85,16.15
+ORD100278,2024-10-20,Customer_5,East,Webcam HD,Electronics,45.0,7,0.0,315.0,226.8,88.2
+ORD100959,2024-05-18,Customer_25,Central,External HDD,Electronics,85.0,1,0.0,85.0,72.25,12.75
+ORD100184,2024-02-15,Customer_25,East,Office Chair,Furniture,120.0,2,0.0,240.0,134.4,105.6
+ORD100687,2023-01-12,Customer_142,North,Router,Electronics,60.0,4,0.0,240.0,170.4,69.6
+ORD100541,2024-07-01,Customer_183,East,Webcam HD,Electronics,45.0,1,0.0,45.0,25.65,19.35
+ORD100638,2024-03-26,Customer_1,West,SSD 1TB,Electronics,110.0,1,0.0,110.0,64.9,45.1
+ORD100569,2024-01-19,Customer_66,South,"Monitor 24""",Electronics,130.0,1,0.2,104.0,88.4,15.6
+ORD100582,2023-05-24,Customer_225,South,SSD 1TB,Electronics,110.0,1,0.0,110.0,61.6,48.4
+ORD100383,2024-11-12,Customer_219,North,Notebook,Stationery,3.0,4,0.2,9.6,9.72,-0.12
+ORD100145,2023-04-06,Customer_36,North,Notebook,Stationery,3.0,3,0.1,8.1,6.3,1.8
+ORD100336,2024-06-30,Customer_168,South,Office Chair,Furniture,120.0,3,0.15,306.0,266.4,39.6
+ORD101152,2024-08-24,Customer_135,Central,Laptop Stand,Accessories,25.0,3,0.1,67.5,56.25,11.25
+ORD100533,2024-12-29,Customer_243,West,Bluetooth Speaker,Electronics,55.0,2,0.05,104.5,77.0,27.5
+ORD100215,2024-07-19,Customer_293,North,Notebook,Stationery,3.0,4,0.05,11.4,9.6,1.8
+ORD101064,2023-08-19,Customer_10,West,Laptop Stand,Accessories,25.0,1,0.0,25.0,20.5,4.5
+ORD101043,2023-05-23,Customer_112,North,Office Chair,Furniture,120.0,6,0.2,576.0,410.4,165.6
+ORD100798,2024-06-25,Customer_293,South,Pen Set,Stationery,5.0,5,0.1,22.5,15.5,7.0
+ORD100953,2024-04-12,Customer_270,Central,USB-C Cable,Electronics,8.0,4,0.0,32.0,23.36,8.64
+ORD100742,2024-12-09,Customer_124,South,Webcam HD,Electronics,45.0,4,0.1,162.0,106.2,55.8
+ORD100196,2023-08-21,Customer_86,East,Desk Lamp,Furniture,18.0,2,0.1,32.4,29.88,2.52
+ORD100778,2024-09-15,Customer_172,South,Laptop Stand,Accessories,25.0,2,0.15,42.5,35.5,7.0
+ORD100495,2024-04-19,Customer_289,East,Desk Lamp,Furniture,18.0,6,0.1,97.2,87.48,9.72
+ORD100591,2024-09-25,Customer_293,North,Webcam HD,Electronics,45.0,3,0.05,128.25,82.35,45.9
+ORD100017,2023-05-11,Customer_266,North,Pen Set,Stationery,5.0,2,0.05,9.5,5.8,3.7
+ORD100713,2024-01-25,Customer_213,West,Desk Lamp,Furniture,18.0,3,0.0,54.0,32.4,21.6
+ORD100380,2023-06-25,Customer_278,West,Office Chair,Furniture,120.0,4,0.0,480.0,403.2,76.8
+ORD100027,2024-04-04,Customer_249,South,Notebook,Stationery,3.0,4,0.0,12.0,9.12,2.88
+ORD100277,2023-04-09,Customer_262,West,Webcam HD,Electronics,45.0,4,0.0,180.0,104.4,75.6
+ORD100789,2023-04-08,Customer_10,West,USB-C Cable,Electronics,8.0,4,0.05,30.4,21.44,8.96
+ORD100631,2023-07-01,Customer_108,North,Smartphone Case,Accessories,10.0,4,0.05,38.0,27.2,10.8
+ORD100395,2024-04-15,Customer_204,West,"Monitor 24""",Electronics,130.0,2,0.1,234.0,145.6,88.4
+ORD100866,2024-12-19,Customer_58,North,"Monitor 24""",Electronics,130.0,1,0.0,130.0,109.2,20.8
+ORD100862,2023-01-08,Customer_230,South,USB-C Cable,Electronics,8.0,6,0.1,43.2,36.96,6.24
+ORD100320,2024-10-31,Customer_176,North,SSD 1TB,Electronics,110.0,5,0.0,550.0,357.5,192.5
+ORD100681,2024-05-27,Customer_232,North,Notebook,Stationery,3.0,4,0.0,12.0,9.48,2.52
+ORD100147,2024-02-11,Customer_148,South,USB-C Cable,Electronics,8.0,3,0.0,24.0,20.16,3.84
+ORD100797,2023-12-01,Customer_154,South,Laptop Stand,Accessories,25.0,3,0.3,52.5,49.5,3.0
+ORD100726,2023-08-12,Customer_3,South,Pen Set,Stationery,5.0,3,0.0,15.0,10.65,4.35
+ORD100623,2023-11-23,Customer_107,East,Notebook,Stationery,3.0,2,0.15,5.1,4.92,0.18
+ORD100238,2023-05-24,Customer_236,South,"Monitor 24""",Electronics,130.0,5,0.0,650.0,442.0,208.0
+ORD100494,2023-06-09,Customer_225,East,Mechanical Keyboard,Electronics,70.0,5,0.0,350.0,217.0,133.0
+ORD100910,2023-04-19,Customer_292,South,Office Chair,Furniture,120.0,4,0.0,480.0,331.2,148.8
+ORD100598,2023-01-09,Customer_231,West,Pen Set,Stationery,5.0,2,0.1,9.0,6.5,2.5
+ORD100895,2023-02-08,Customer_104,East,Laptop Stand,Accessories,25.0,3,0.1,67.5,56.25,11.25
+ORD100449,2024-08-23,Customer_199,North,Desk Lamp,Furniture,18.0,3,0.05,51.3,42.66,8.64
+ORD101068,2024-03-16,Customer_284,South,Smartphone Case,Accessories,10.0,2,0.05,19.0,13.2,5.8
+ORD101027,2024-02-14,Customer_213,North,Wireless Mouse,Electronics,15.0,7,0.0,105.0,63.0,42.0
+ORD100106,2024-05-13,Customer_87,South,Wireless Mouse,Electronics,15.0,2,0.1,27.0,25.2,1.8
+ORD100350,2023-10-07,Customer_235,South,Laptop Stand,Accessories,25.0,5,0.3,87.5,70.0,17.5
+ORD100523,2023-04-25,Customer_22,West,Pen Set,Stationery,5.0,5,0.05,23.75,20.25,3.5
+ORD100650,2023-12-14,Customer_242,North,Smartphone Case,Accessories,10.0,1,0.05,9.5,6.5,3.0
+ORD100389,2024-11-15,Customer_120,Central,Mechanical Keyboard,Electronics,70.0,3,0.3,147.0,157.5,-10.5
+ORD100448,2024-07-13,Customer_50,North,"Monitor 24""",Electronics,130.0,3,0.0,390.0,245.7,144.3
+ORD100093,2024-01-15,Customer_98,East,External HDD,Electronics,85.0,3,0.0,255.0,198.9,56.1
+ORD100259,2023-05-31,Customer_295,East,Laptop Stand,Accessories,25.0,1,0.0,25.0,16.0,9.0
+ORD100554,2024-08-18,Customer_213,Central,SSD 1TB,Electronics,110.0,3,0.1,297.0,211.2,85.8
+ORD100675,2023-02-16,Customer_119,East,Desk Lamp,Furniture,18.0,3,0.05,51.3,29.7,21.6
+ORD101154,2024-01-21,Customer_236,Central,Router,Electronics,60.0,4,0.0,240.0,189.6,50.4
+ORD100170,2023-12-14,Customer_275,West,External HDD,Electronics,85.0,4,0.0,340.0,255.0,85.0
+ORD100254,2024-10-01,Customer_140,South,Smartphone Case,Accessories,10.0,3,0.05,28.5,24.0,4.5
+ORD100731,2023-08-05,Customer_154,West,Desk Lamp,Furniture,18.0,4,0.05,68.4,55.44,12.96
+ORD101091,2023-05-10,Customer_228,North,Pen Set,Stationery,5.0,4,0.05,19.0,14.2,4.8
+ORD100602,2023-08-18,Customer_163,East,Laptop Stand,Accessories,25.0,2,0.0,50.0,39.5,10.5
+ORD100252,2024-12-11,Customer_193,East,Webcam HD,Electronics,45.0,2,0.3,63.0,73.8,-10.8
+ORD100547,2024-01-04,Customer_59,East,USB-C Cable,Electronics,8.0,3,0.0,24.0,16.08,7.92
+ORD100415,2024-09-04,Customer_288,East,USB-C Cable,Electronics,8.0,3,0.0,24.0,18.96,5.04
+ORD101193,2023-11-14,Customer_261,West,Laptop Stand,Accessories,25.0,4,0.0,100.0,65.0,35.0
+ORD101034,2023-10-23,Customer_188,North,Pen Set,Stationery,5.0,2,0.0,10.0,7.5,2.5
+ORD100428,2024-09-27,Customer_257,South,Pen Set,Stationery,5.0,3,0.05,14.25,12.45,1.8
+ORD100186,2023-11-14,Customer_268,North,Router,Electronics,60.0,4,0.1,216.0,192.0,24.0
+ORD100851,2023-05-01,Customer_136,North,External HDD,Electronics,85.0,2,0.0,170.0,98.6,71.4
+ORD100815,2023-04-21,Customer_161,West,Laptop Stand,Accessories,25.0,1,0.2,20.0,19.75,0.25
+ORD100908,2023-03-08,Customer_226,North,External HDD,Electronics,85.0,4,0.0,340.0,207.4,132.6
+ORD101005,2024-08-03,Customer_63,South,Wireless Mouse,Electronics,15.0,4,0.0,60.0,49.2,10.8
+ORD100269,2023-10-31,Customer_148,East,"Monitor 24""",Electronics,130.0,2,0.2,208.0,195.0,13.0
+ORD100867,2023-10-30,Customer_259,West,SSD 1TB,Electronics,110.0,3,0.2,264.0,254.1,9.9
+ORD100985,2024-05-25,Customer_56,West,Desk Lamp,Furniture,18.0,3,0.0,54.0,32.4,21.6
+ORD100699,2024-11-28,Customer_269,South,Desk Lamp,Furniture,18.0,3,0.0,54.0,31.32,22.68
+ORD100630,2024-03-20,Customer_207,North,Notebook,Stationery,3.0,5,0.05,14.25,11.7,2.55
+ORD100950,2023-08-11,Customer_289,Central,Wireless Mouse,Electronics,15.0,3,0.3,31.5,31.5,0.0
+ORD100162,2024-10-07,Customer_39,West,Wireless Mouse,Electronics,15.0,3,0.0,45.0,35.1,9.9
+ORD100413,2023-02-23,Customer_157,West,Office Chair,Furniture,120.0,3,0.0,360.0,302.4,57.6
+ORD101117,2023-12-22,Customer_164,South,Mechanical Keyboard,Electronics,70.0,3,0.0,210.0,176.4,33.6
+ORD100095,2023-02-10,Customer_293,Central,External HDD,Electronics,85.0,5,0.0,425.0,331.5,93.5
+ORD100098,2023-03-06,Customer_128,West,"Monitor 24""",Electronics,130.0,4,0.05,494.0,317.2,176.8
+ORD100006,2023-01-21,Customer_175,South,"Monitor 24""",Electronics,130.0,5,0.3,455.0,500.5,-45.5
+ORD100876,2024-01-21,Customer_116,East,USB-C Cable,Electronics,8.0,2,0.05,15.2,12.48,2.72
+ORD100822,2024-11-26,Customer_11,West,Laptop Stand,Accessories,25.0,3,0.15,63.75,56.25,7.5
+ORD100207,2024-09-04,Customer_273,South,Notebook,Stationery,3.0,2,0.0,6.0,4.32,1.68
+ORD100803,2023-05-18,Customer_100,West,SSD 1TB,Electronics,110.0,3,0.2,264.0,250.8,13.2
+ORD100686,2024-04-15,Customer_287,South,Pen Set,Stationery,5.0,3,0.1,13.5,11.85,1.65
+ORD100872,2024-04-18,Customer_102,Central,Notebook,Stationery,3.0,3,0.1,8.1,5.85,2.25
+ORD100245,2023-12-15,Customer_177,East,Pen Set,Stationery,5.0,3,0.15,12.75,9.9,2.85
+ORD100611,2024-05-31,Customer_80,South,Desk Lamp,Furniture,18.0,1,0.0,18.0,15.12,2.88
+ORD100229,2023-07-22,Customer_247,West,Desk Lamp,Furniture,18.0,2,0.0,36.0,23.76,12.24
+ORD100264,2023-05-24,Customer_199,North,Mechanical Keyboard,Electronics,70.0,3,0.2,168.0,155.4,12.6
+ORD100906,2024-08-02,Customer_272,South,Office Chair,Furniture,120.0,4,0.05,456.0,283.2,172.8
+ORD100368,2023-11-19,Customer_113,North,Laptop Stand,Accessories,25.0,3,0.1,67.5,42.75,24.75
+ORD101004,2023-04-05,Customer_178,East,Wireless Mouse,Electronics,15.0,4,0.05,57.0,39.0,18.0
+ORD100896,2023-09-30,Customer_118,North,USB-C Cable,Electronics,8.0,3,0.1,21.6,13.44,8.16
+ORD101135,2024-02-24,Customer_213,South,Pen Set,Stationery,5.0,3,0.2,12.0,11.7,0.3
+ORD100201,2024-07-17,Customer_137,West,SSD 1TB,Electronics,110.0,5,0.0,550.0,445.5,104.5
+ORD100729,2023-10-09,Customer_117,East,Pen Set,Stationery,5.0,1,0.0,5.0,3.3,1.7
+ORD101172,2024-10-23,Customer_278,South,Pen Set,Stationery,5.0,4,0.0,20.0,11.6,8.4
+ORD100799,2023-04-16,Customer_68,East,Office Chair,Furniture,120.0,5,0.0,600.0,450.0,150.0
+ORD100865,2024-11-22,Customer_67,West,Pen Set,Stationery,5.0,3,0.2,12.0,11.4,0.6
+ORD100403,2024-07-28,Customer_79,Central,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,100.8,39.2
+ORD101039,2024-09-28,Customer_282,South,Laptop Stand,Accessories,25.0,1,0.0,25.0,19.5,5.5
+ORD100791,2024-03-10,Customer_125,East,External HDD,Electronics,85.0,2,0.0,170.0,95.2,74.8
+ORD100610,2023-07-13,Customer_270,Central,Bluetooth Speaker,Electronics,55.0,4,0.05,209.0,138.6,70.4
+ORD100886,2024-05-22,Customer_12,North,Bluetooth Speaker,Electronics,55.0,2,0.0,110.0,63.8,46.2
+ORD100332,2024-04-25,Customer_289,East,Desk Lamp,Furniture,18.0,1,0.3,12.6,13.86,-1.26
+ORD100303,2024-11-11,Customer_123,South,Notebook,Stationery,3.0,1,0.05,2.85,2.37,0.48
+ORD100260,2024-02-19,Customer_11,North,Wireless Mouse,Electronics,15.0,2,0.0,30.0,24.6,5.4
+ORD100144,2024-07-17,Customer_250,South,Desk Lamp,Furniture,18.0,3,0.0,54.0,39.42,14.58
+ORD100828,2024-11-02,Customer_291,North,SSD 1TB,Electronics,110.0,2,0.1,198.0,178.2,19.8
+ORD100627,2023-03-11,Customer_120,North,SSD 1TB,Electronics,110.0,3,0.05,313.5,207.9,105.6
+ORD100698,2024-10-09,Customer_176,West,SSD 1TB,Electronics,110.0,2,0.15,187.0,149.6,37.4
+ORD100919,2024-08-17,Customer_154,West,Laptop Stand,Accessories,25.0,3,0.0,75.0,59.25,15.75
+ORD101127,2023-10-23,Customer_10,East,USB-C Cable,Electronics,8.0,1,0.3,5.6,4.8,0.8
+ORD100937,2024-09-15,Customer_7,East,External HDD,Electronics,85.0,1,0.0,85.0,69.7,15.3
+ORD100011,2023-11-27,Customer_166,West,Pen Set,Stationery,5.0,4,0.1,18.0,13.4,4.6
+ORD100008,2023-05-02,Customer_113,West,Wireless Mouse,Electronics,15.0,4,0.0,60.0,37.2,22.8
+ORD100890,2023-07-11,Customer_144,West,Webcam HD,Electronics,45.0,4,0.05,171.0,135.0,36.0
+ORD100594,2023-08-03,Customer_14,South,SSD 1TB,Electronics,110.0,4,0.2,352.0,369.6,-17.6
+ORD100693,2023-01-08,Customer_63,North,Wireless Mouse,Electronics,15.0,1,0.0,15.0,11.55,3.45
+ORD100531,2024-01-11,Customer_12,West,Notebook,Stationery,3.0,2,0.0,6.0,4.2,1.8
+ORD100894,2024-12-14,Customer_115,East,Smartphone Case,Accessories,10.0,4,0.1,36.0,26.4,9.6
+ORD100469,2024-03-28,Customer_277,West,Wireless Mouse,Electronics,15.0,1,0.05,14.25,12.6,1.65
+ORD100127,2024-12-26,Customer_149,South,Laptop Stand,Accessories,25.0,3,0.15,63.75,41.25,22.5
+ORD100736,2023-04-09,Customer_228,East,Pen Set,Stationery,5.0,2,0.15,8.5,8.1,0.4
+ORD100057,2023-12-06,Customer_11,North,USB-C Cable,Electronics,8.0,3,0.1,21.6,13.68,7.92
+ORD100955,2023-01-04,Customer_238,North,Bluetooth Speaker,Electronics,55.0,2,0.1,99.0,93.5,5.5
+ORD101114,2024-09-07,Customer_255,North,Mechanical Keyboard,Electronics,70.0,4,0.0,280.0,162.4,117.6
+ORD100033,2023-02-28,Customer_92,West,Router,Electronics,60.0,4,0.0,240.0,177.6,62.4
+ORD100237,2024-05-25,Customer_245,North,Pen Set,Stationery,5.0,2,0.15,8.5,7.3,1.2
+ORD101177,2023-03-25,Customer_191,North,Smartphone Case,Accessories,10.0,1,0.0,10.0,7.4,2.6
+ORD100282,2023-06-01,Customer_215,West,"Monitor 24""",Electronics,130.0,4,0.0,520.0,416.0,104.0
+ORD100586,2024-11-23,Customer_240,West,Bluetooth Speaker,Electronics,55.0,1,0.2,44.0,46.75,-2.75
+ORD100934,2024-12-10,Customer_158,North,USB-C Cable,Electronics,8.0,2,0.05,15.2,9.44,5.76
+ORD100362,2023-09-13,Customer_12,North,Desk Lamp,Furniture,18.0,5,0.0,90.0,64.8,25.2
+ORD100243,2023-11-22,Customer_266,South,Pen Set,Stationery,5.0,6,0.0,30.0,24.6,5.4
+ORD100092,2023-07-07,Customer_109,East,Webcam HD,Electronics,45.0,4,0.05,171.0,151.2,19.8
+ORD100337,2023-07-11,Customer_92,South,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,107.8,32.2
+ORD101013,2024-06-30,Customer_14,West,Desk Lamp,Furniture,18.0,3,0.05,51.3,41.04,10.26
+ORD100947,2023-02-09,Customer_25,East,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,85.4,54.6
+ORD100039,2024-11-17,Customer_288,North,Notebook,Stationery,3.0,2,0.0,6.0,3.42,2.58
+ORD100975,2024-06-15,Customer_130,Central,Bluetooth Speaker,Electronics,55.0,5,0.0,275.0,209.0,66.0
+ORD100634,2024-12-14,Customer_293,Central,Smartphone Case,Accessories,10.0,3,0.1,27.0,19.5,7.5
+ORD100764,2023-04-05,Customer_77,East,Desk Lamp,Furniture,18.0,2,0.1,32.4,27.72,4.68
+ORD100723,2024-01-09,Customer_267,West,SSD 1TB,Electronics,110.0,3,0.0,330.0,207.9,122.1
+ORD100063,2023-02-04,Customer_293,South,"Monitor 24""",Electronics,130.0,3,0.0,390.0,296.4,93.6
+ORD100233,2023-10-21,Customer_96,East,Office Chair,Furniture,120.0,3,0.1,324.0,252.0,72.0
+ORD100676,2023-08-21,Customer_218,South,Bluetooth Speaker,Electronics,55.0,2,0.0,110.0,85.8,24.2
+ORD100105,2023-05-19,Customer_76,Central,Smartphone Case,Accessories,10.0,3,0.2,24.0,25.5,-1.5
+ORD100753,2023-03-19,Customer_27,North,USB-C Cable,Electronics,8.0,2,0.1,14.4,13.12,1.28
+ORD100902,2023-05-25,Customer_84,South,Office Chair,Furniture,120.0,2,0.0,240.0,148.8,91.2
+ORD100253,2024-05-03,Customer_73,West,Router,Electronics,60.0,4,0.1,216.0,192.0,24.0
+ORD100422,2023-07-15,Customer_236,South,Office Chair,Furniture,120.0,2,0.05,228.0,199.2,28.8
+ORD100774,2023-02-23,Customer_298,Central,Webcam HD,Electronics,45.0,5,0.1,202.5,130.5,72.0
+ORD100858,2024-07-26,Customer_27,North,Laptop Stand,Accessories,25.0,3,0.0,75.0,59.25,15.75
+ORD100924,2024-11-22,Customer_244,East,External HDD,Electronics,85.0,4,0.0,340.0,204.0,136.0
+ORD100079,2023-09-27,Customer_209,North,Router,Electronics,60.0,1,0.0,60.0,36.6,23.4
+ORD100989,2023-01-10,Customer_156,North,USB-C Cable,Electronics,8.0,4,0.1,28.8,19.2,9.6
+ORD100497,2024-11-20,Customer_77,Central,Router,Electronics,60.0,1,0.2,48.0,49.2,-1.2
+ORD101175,2024-04-13,Customer_184,East,Desk Lamp,Furniture,18.0,2,0.1,32.4,25.56,6.84
+ORD100087,2024-12-25,Customer_278,Central,Notebook,Stationery,3.0,3,0.0,9.0,5.04,3.96
+ORD100064,2023-07-25,Customer_256,Central,Bluetooth Speaker,Electronics,55.0,1,0.0,55.0,44.55,10.45
+ORD100605,2024-10-14,Customer_164,North,SSD 1TB,Electronics,110.0,1,0.0,110.0,89.1,20.9
+ORD100274,2023-06-09,Customer_218,South,Desk Lamp,Furniture,18.0,5,0.1,81.0,59.4,21.6
+ORD101089,2023-11-20,Customer_277,North,Wireless Mouse,Electronics,15.0,2,0.1,27.0,23.1,3.9
+ORD100153,2024-06-08,Customer_201,West,Desk Lamp,Furniture,18.0,2,0.05,34.2,22.32,11.88
+ORD100613,2023-06-14,Customer_266,East,Desk Lamp,Furniture,18.0,5,0.05,85.5,53.1,32.4
+ORD100410,2023-11-01,Customer_39,East,Office Chair,Furniture,120.0,5,0.05,570.0,432.0,138.0
+ORD100830,2024-09-25,Customer_85,Central,Wireless Mouse,Electronics,15.0,4,0.1,54.0,33.0,21.0
+ORD100912,2023-04-21,Customer_114,East,Webcam HD,Electronics,45.0,3,0.05,128.25,75.6,52.65
+ORD100517,2023-02-04,Customer_84,South,Desk Lamp,Furniture,18.0,7,0.1,113.4,80.64,32.76
+ORD100044,2023-05-11,Customer_7,Central,Desk Lamp,Furniture,18.0,5,0.0,90.0,71.1,18.9
+ORD100390,2023-01-20,Customer_210,North,Laptop Stand,Accessories,25.0,4,0.05,95.0,59.0,36.0
+ORD100220,2023-05-10,Customer_4,East,SSD 1TB,Electronics,110.0,5,0.0,550.0,407.0,143.0
+ORD100140,2024-04-05,Customer_152,West,USB-C Cable,Electronics,8.0,5,0.3,28.0,30.4,-2.4
+ORD100357,2024-11-30,Customer_39,North,Smartphone Case,Accessories,10.0,5,0.0,50.0,27.5,22.5
+ORD100722,2023-04-29,Customer_102,North,"Monitor 24""",Electronics,130.0,3,0.0,390.0,253.5,136.5
+ORD100261,2023-10-25,Customer_62,North,Smartphone Case,Accessories,10.0,1,0.0,10.0,8.0,2.0
+ORD100898,2023-03-27,Customer_248,West,Notebook,Stationery,3.0,4,0.0,12.0,9.48,2.52
+ORD100195,2024-04-16,Customer_282,West,Pen Set,Stationery,5.0,5,0.0,25.0,15.5,9.5
+ORD100115,2023-02-10,Customer_237,North,Pen Set,Stationery,5.0,1,0.15,4.25,4.0,0.25
+ORD101073,2023-07-15,Customer_214,East,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,109.2,30.8
+ORD100718,2023-01-10,Customer_143,North,Mechanical Keyboard,Electronics,70.0,4,0.0,280.0,173.6,106.4
+ORD101184,2023-03-04,Customer_281,West,Smartphone Case,Accessories,10.0,5,0.1,45.0,30.0,15.0
+ORD101093,2023-04-05,Customer_211,North,USB-C Cable,Electronics,8.0,7,0.15,47.6,40.88,6.72
+ORD100358,2023-04-26,Customer_82,South,USB-C Cable,Electronics,8.0,4,0.2,25.6,18.56,7.04
+ORD101060,2024-09-14,Customer_60,South,Desk Lamp,Furniture,18.0,2,0.15,30.6,30.6,0.0
+ORD101019,2023-08-17,Customer_219,Central,Notebook,Stationery,3.0,3,0.15,7.65,6.21,1.44
+ORD101000,2023-11-25,Customer_101,South,"Monitor 24""",Electronics,130.0,1,0.0,130.0,104.0,26.0
+ORD100935,2024-08-04,Customer_134,North,Pen Set,Stationery,5.0,2,0.05,9.5,8.2,1.3
+ORD100754,2024-04-01,Customer_157,West,Webcam HD,Electronics,45.0,1,0.0,45.0,37.8,7.2
+ORD100420,2023-01-05,Customer_27,East,USB-C Cable,Electronics,8.0,2,0.0,16.0,12.96,3.04
+ORD100149,2024-10-16,Customer_244,South,Bluetooth Speaker,Electronics,55.0,5,0.1,247.5,192.5,55.0
+ORD100009,2024-04-11,Customer_114,South,External HDD,Electronics,85.0,4,0.2,272.0,214.2,57.8
+ORD101069,2023-04-07,Customer_203,South,Office Chair,Furniture,120.0,2,0.3,168.0,165.6,2.4
+ORD101165,2023-06-29,Customer_29,West,USB-C Cable,Electronics,8.0,3,0.05,22.8,16.8,6.0
+ORD100534,2023-10-04,Customer_122,East,USB-C Cable,Electronics,8.0,5,0.0,40.0,30.8,9.2
+ORD100548,2024-11-25,Customer_131,West,Bluetooth Speaker,Electronics,55.0,1,0.0,55.0,36.85,18.15
+ORD100298,2023-06-02,Customer_89,North,USB-C Cable,Electronics,8.0,3,0.05,22.8,18.72,4.08
+ORD100976,2023-04-23,Customer_60,North,Smartphone Case,Accessories,10.0,2,0.0,20.0,14.4,5.6
+ORD100122,2024-02-11,Customer_193,North,USB-C Cable,Electronics,8.0,6,0.15,40.8,34.56,6.24
+ORD101124,2023-02-20,Customer_288,North,Office Chair,Furniture,120.0,1,0.1,108.0,90.0,18.0
+ORD100709,2024-04-05,Customer_82,West,Pen Set,Stationery,5.0,1,0.0,5.0,2.95,2.05
+ORD101176,2023-02-18,Customer_3,East,Laptop Stand,Accessories,25.0,3,0.0,75.0,50.25,24.75
+ORD100769,2024-11-04,Customer_74,East,Wireless Mouse,Electronics,15.0,1,0.15,12.75,12.75,0.0
+ORD100088,2024-12-20,Customer_235,South,Router,Electronics,60.0,4,0.1,216.0,196.8,19.2
+ORD101032,2023-03-30,Customer_160,North,Wireless Mouse,Electronics,15.0,1,0.0,15.0,12.0,3.0
+ORD100097,2023-01-15,Customer_146,South,Laptop Stand,Accessories,25.0,3,0.0,75.0,60.0,15.0
+ORD100636,2023-02-08,Unknown,South,Wireless Mouse,Electronics,85.0,2,0.15,144.5,108.8,35.7
+ORD100348,2023-04-09,Customer_7,South,Router,Electronics,60.0,3,0.3,126.0,136.8,-10.8
+ORD100509,2024-07-09,Customer_9,Central,Laptop Stand,Accessories,25.0,7,0.0,175.0,112.0,63.0
+ORD100211,2023-04-23,Customer_108,South,Mechanical Keyboard,Electronics,70.0,2,0.05,133.0,91.0,42.0
+ORD100703,2023-02-10,Customer_159,West,Desk Lamp,Furniture,18.0,4,0.0,72.0,56.16,15.84
+ORD100746,2024-07-18,Customer_51,East,Desk Lamp,Furniture,18.0,4,0.15,61.2,55.44,5.76
+ORD101045,2023-05-25,Customer_82,North,Office Chair,Furniture,120.0,4,0.0,480.0,316.8,163.2
+ORD100939,2023-12-16,Customer_73,South,Router,Electronics,60.0,4,0.0,240.0,163.2,76.8
+ORD101174,2023-06-05,Customer_189,South,Smartphone Case,Accessories,10.0,3,0.1,27.0,22.8,4.2
+ORD100838,2024-02-09,Customer_19,North,"Monitor 24""",Electronics,130.0,2,0.15,221.0,145.6,75.4
+ORD101122,2024-08-26,Customer_160,South,Webcam HD,Electronics,45.0,3,0.0,135.0,110.7,24.3
+ORD100478,2023-09-11,Customer_267,North,Webcam HD,Electronics,45.0,2,0.0,90.0,60.3,29.7
+ORD100491,2023-12-02,Customer_202,South,Webcam HD,Electronics,45.0,2,0.1,81.0,53.1,27.9
+ORD100841,2023-08-21,Customer_102,North,Wireless Mouse,Electronics,15.0,4,0.1,54.0,35.4,18.6
+ORD101070,2024-02-15,Customer_247,East,Wireless Mouse,Electronics,15.0,7,0.0,105.0,77.7,27.3
+ORD100364,2023-05-08,Customer_224,North,"Monitor 24""",Electronics,130.0,3,0.05,370.5,230.1,140.4
+ORD100296,2024-04-17,Customer_269,Central,Desk Lamp,Furniture,18.0,4,0.0,72.0,50.4,21.6
+ORD100049,2023-10-01,Customer_147,East,USB-C Cable,Electronics,8.0,1,0.0,8.0,5.92,2.08
+ORD100224,2024-11-02,Customer_108,South,External HDD,Electronics,85.0,4,0.1,306.0,210.8,95.2
+ORD100850,2023-02-16,Customer_73,West,Bluetooth Speaker,Electronics,55.0,5,0.0,275.0,228.25,46.75
+ORD100647,2023-12-27,Customer_12,East,Webcam HD,Electronics,45.0,4,0.0,180.0,136.8,43.2
+ORD100562,2024-01-31,Customer_50,North,Webcam HD,Electronics,45.0,3,0.0,135.0,101.25,33.75
+ORD100622,2024-05-25,Customer_121,East,USB-C Cable,Electronics,8.0,7,0.05,53.2,31.36,21.84
+ORD101087,2023-06-06,Customer_133,West,Wireless Mouse,Electronics,15.0,3,0.1,40.5,33.75,6.75
+ORD100804,2023-07-03,Customer_60,East,External HDD,Electronics,85.0,6,0.05,484.5,357.0,127.5
+ORD100604,2023-06-23,Customer_261,West,Webcam HD,Electronics,45.0,3,0.0,135.0,110.7,24.3
+ORD100442,2023-02-27,Customer_145,East,SSD 1TB,Electronics,110.0,3,0.0,330.0,273.9,56.1
+ORD101024,2023-01-05,Customer_138,West,"Monitor 24""",Electronics,130.0,1,0.3,91.0,83.2,7.8
+ORD100539,2024-11-19,Customer_221,North,Router,Electronics,60.0,3,0.15,153.0,144.0,9.0
+ORD100767,2023-06-03,Customer_263,South,Pen Set,Stationery,5.0,2,0.0,10.0,7.3,2.7
+ORD100762,2023-02-03,Customer_146,Central,Laptop Stand,Accessories,25.0,3,0.05,71.25,51.75,19.5
+ORD100868,2024-09-30,Customer_130,North,Notebook,Stationery,3.0,1,0.0,3.0,2.49,0.51
+ORD100689,2023-12-24,Customer_69,North,Bluetooth Speaker,Electronics,55.0,4,0.05,209.0,151.8,57.2
+ORD100187,2024-11-07,Customer_143,South,External HDD,Electronics,85.0,2,0.2,136.0,136.0,0.0
+ORD100406,2023-05-30,Customer_226,North,Office Chair,Furniture,120.0,7,0.0,840.0,613.2,226.8
+ORD101011,2023-05-17,Customer_155,North,Smartphone Case,Accessories,10.0,4,0.0,40.0,22.0,18.0
+ORD100751,2023-05-25,Customer_290,South,Router,Electronics,60.0,1,0.05,57.0,40.2,16.8
+ORD101050,2023-02-08,Customer_42,West,Smartphone Case,Accessories,10.0,3,0.15,25.5,24.0,1.5
+ORD100461,2024-03-10,Customer_166,West,Bluetooth Speaker,Electronics,55.0,2,0.0,110.0,75.9,34.1
+ORD100670,2023-08-15,Customer_5,South,Laptop Stand,Accessories,25.0,4,0.2,80.0,65.0,15.0
+ORD100655,2024-01-04,Customer_217,West,Smartphone Case,Accessories,10.0,1,0.3,7.0,8.0,-1.0
+ORD100785,2023-04-13,Customer_220,North,Smartphone Case,Accessories,10.0,2,0.05,19.0,14.6,4.4
+ORD100714,2024-08-16,Customer_143,West,Mechanical Keyboard,Electronics,70.0,4,0.1,252.0,154.0,98.0
+ORD100424,2023-02-16,Customer_21,West,"Monitor 24""",Electronics,130.0,3,0.15,331.5,300.3,31.2
+ORD100043,2024-05-19,Customer_223,North,Router,Electronics,60.0,2,0.05,114.0,92.4,21.6
+ORD100661,2024-11-15,Customer_178,North,USB-C Cable,Electronics,8.0,3,0.1,21.6,16.08,5.52
+ORD100635,2024-06-14,Customer_20,North,Router,Electronics,60.0,4,0.2,192.0,192.0,0.0
+ORD100528,2024-05-07,Customer_14,West,Wireless Mouse,Electronics,15.0,5,0.0,75.0,50.25,24.75
+ORD100987,2024-11-03,Customer_99,North,USB-C Cable,Electronics,8.0,2,0.1,14.4,11.68,2.72
+ORD100218,2024-02-07,Customer_39,Central,Mechanical Keyboard,Electronics,70.0,2,0.2,112.0,81.2,30.8
+ORD100820,2024-06-03,Customer_143,Central,Pen Set,Stationery,5.0,2,0.05,9.5,6.1,3.4
+ORD101182,2023-12-08,Customer_295,West,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,100.8,39.2
+ORD100855,2023-12-16,Customer_49,South,Mechanical Keyboard,Electronics,70.0,3,0.15,178.5,174.3,4.2
+ORD100609,2024-09-25,Customer_118,North,Smartphone Case,Accessories,10.0,5,0.05,47.5,36.5,11.0
+ORD100485,2024-10-20,Customer_160,East,SSD 1TB,Electronics,110.0,2,0.05,209.0,180.4,28.6
+ORD101149,2024-07-28,Customer_149,North,Office Chair,Furniture,120.0,3,0.05,342.0,259.2,82.8
+ORD101017,2024-07-25,Customer_183,East,SSD 1TB,Electronics,110.0,4,0.0,440.0,299.2,140.8
+ORD101085,2024-10-09,Customer_152,Central,Pen Set,Stationery,5.0,2,0.1,9.0,6.5,2.5
+ORD100081,2024-03-31,Customer_9,East,Smartphone Case,Accessories,10.0,3,0.05,28.5,20.4,8.1
+ORD100324,2024-07-16,Customer_40,North,Pen Set,Stationery,5.0,2,0.1,9.0,8.3,0.7
+ORD101080,2023-08-16,Customer_8,West,Notebook,Stationery,3.0,5,0.1,13.5,8.4,5.1
+ORD100019,2023-11-05,Customer_87,South,Pen Set,Stationery,5.0,2,0.0,10.0,7.1,2.9
+ORD100454,2024-12-04,Customer_153,East,Laptop Stand,Accessories,25.0,6,0.0,150.0,127.5,22.5
+ORD101110,2023-05-21,Customer_169,Central,External HDD,Electronics,85.0,6,0.15,433.5,397.8,35.7
+ORD100758,2024-12-17,Customer_136,South,Desk Lamp,Furniture,18.0,2,0.2,28.8,27.36,1.44
+ORD100034,2024-05-25,Customer_264,North,Notebook,Stationery,3.0,1,0.0,3.0,1.89,1.11
+ORD100808,2023-03-10,Customer_164,North,Bluetooth Speaker,Electronics,55.0,1,0.05,52.25,39.6,12.65
+ORD101162,2023-07-01,Customer_285,North,Smartphone Case,Accessories,10.0,4,0.0,40.0,22.4,17.6
+ORD100904,2023-07-31,Customer_288,West,Notebook,Stationery,3.0,6,0.2,14.4,10.44,3.96
+ORD100800,2024-07-16,Customer_50,North,Smartphone Case,Accessories,10.0,2,0.2,16.0,12.2,3.8
+ORD100096,2023-06-06,Customer_75,East,Desk Lamp,Furniture,18.0,4,0.0,72.0,43.2,28.8
+ORD101107,2023-12-29,Customer_292,Central,Mechanical Keyboard,Electronics,70.0,3,0.2,168.0,128.1,39.9
+ORD100446,2024-09-29,Customer_27,South,Laptop Stand,Accessories,25.0,2,0.1,45.0,37.5,7.5
+ORD100474,2023-12-07,Customer_11,East,Wireless Mouse,Electronics,15.0,3,0.0,45.0,37.35,7.65
+ORD100366,2024-07-19,Customer_46,East,Smartphone Case,Accessories,10.0,3,0.0,30.0,17.7,12.3
+ORD101185,2024-12-01,Customer_128,East,Notebook,Stationery,3.0,1,0.2,2.4,1.92,0.48
+ORD100760,2024-03-24,Customer_106,West,Laptop Stand,Accessories,25.0,2,0.0,50.0,39.5,10.5
+ORD100918,2024-01-04,Customer_190,South,Webcam HD,Electronics,45.0,2,0.05,85.5,51.3,34.2
+ORD100759,2024-03-21,Customer_144,South,USB-C Cable,Electronics,8.0,4,0.0,32.0,18.88,13.12
+ORD100392,2024-05-26,Customer_192,West,Pen Set,Stationery,5.0,4,0.05,19.0,17.0,2.0
+ORD100506,2024-02-21,Customer_143,West,Smartphone Case,Accessories,10.0,6,0.0,60.0,45.0,15.0
+ORD100434,2024-08-26,Customer_280,West,Laptop Stand,Accessories,25.0,1,0.0,25.0,16.75,8.25
+ORD100648,2023-01-01,Customer_276,South,Laptop Stand,Accessories,25.0,3,0.0,75.0,57.75,17.25
+ORD100942,2024-08-29,Customer_130,West,Bluetooth Speaker,Electronics,55.0,1,0.0,55.0,39.05,15.95
+ORD100132,2023-01-05,Customer_113,South,Webcam HD,Electronics,45.0,4,0.0,180.0,136.8,43.2
+ORD101074,2024-08-20,Customer_200,West,Smartphone Case,Accessories,10.0,5,0.15,42.5,31.5,11.0
+ORD100972,2023-04-28,Customer_160,South,"Monitor 24""",Electronics,130.0,3,0.05,370.5,296.4,74.1
+ORD100450,2024-05-02,Customer_181,South,Router,Electronics,60.0,2,0.2,96.0,82.8,13.2
+ORD100031,2024-07-14,Customer_51,North,Pen Set,Stationery,5.0,2,0.0,10.0,8.0,2.0
+ORD100121,2024-05-17,Customer_130,East,Router,Electronics,60.0,3,0.0,180.0,100.8,79.2
+ORD101112,2023-07-29,Customer_119,East,Wireless Mouse,Electronics,15.0,1,0.0,15.0,11.1,3.9
+ORD100255,2024-07-04,Customer_187,North,Mechanical Keyboard,Electronics,70.0,2,0.0,140.0,109.2,30.8
+ORD100892,2024-04-29,Customer_237,Central,Mechanical Keyboard,Electronics,70.0,5,0.2,280.0,241.5,38.5
+ORD100359,2023-07-10,Customer_258,North,USB-C Cable,Electronics,8.0,4,0.0,32.0,20.8,11.2
+ORD100051,2024-08-23,Customer_36,West,Wireless Mouse,Electronics,15.0,3,0.05,42.75,31.05,11.7
+ORD100875,2023-08-04,Customer_286,East,Wireless Mouse,Electronics,15.0,2,0.1,27.0,25.2,1.8
+ORD100938,2024-05-30,Customer_14,East,Webcam HD,Electronics,45.0,1,0.3,31.5,30.6,0.9
+ORD100772,2023-11-02,Customer_71,East,USB-C Cable,Electronics,8.0,3,0.15,20.4,13.44,6.96
+ORD101126,2024-04-06,Customer_11,East,SSD 1TB,Electronics,110.0,1,0.1,99.0,85.8,13.2
+ORD100679,2023-05-23,Customer_26,North,Desk Lamp,Furniture,18.0,2,0.15,30.6,26.28,4.32
+ORD100805,2024-02-05,Customer_167,East,Laptop Stand,Accessories,25.0,2,0.0,50.0,40.5,9.5
+ORD100124,2024-12-28,Customer_292,East,Wireless Mouse,Electronics,15.0,2,0.1,27.0,24.3,2.7
+ORD100404,2023-07-09,Customer_58,North,Smartphone Case,Accessories,10.0,1,0.0,10.0,7.5,2.5
+ORD100730,2023-03-04,Customer_221,West,Pen Set,Stationery,5.0,2,0.0,10.0,7.8,2.2
+ORD100831,2023-02-20,Customer_146,West,Notebook,Stationery,3.0,2,0.0,6.0,3.72,2.28
+ORD101071,2023-10-16,Customer_290,Central,Webcam HD,Electronics,45.0,4,0.05,171.0,147.6,23.4
+ORD100725,2023-05-26,Customer_265,East,Desk Lamp,Furniture,18.0,1,0.0,18.0,13.86,4.14
+ORD100587,2023-02-11,Customer_87,South,Desk Lamp,Furniture,18.0,2,0.0,36.0,29.52,6.48
+ORD100607,2023-06-19,Customer_10,North,Notebook,Stationery,3.0,3,0.0,9.0,5.58,3.42
+ORD100433,2023-04-30,Customer_281,South,Router,Electronics,60.0,4,0.0,240.0,153.6,86.4
+ORD100674,2024-02-06,Customer_193,East,"Monitor 24""",Electronics,130.0,2,0.0,260.0,158.6,101.4
+ORD100360,2023-09-10,Customer_206,North,"Monitor 24""",Electronics,130.0,3,0.15,331.5,265.2,66.3
+ORD101099,2023-01-11,Customer_138,East,SSD 1TB,Electronics,110.0,4,0.0,440.0,360.8,79.2
+ORD100466,2023-03-10,Customer_205,East,Bluetooth Speaker,Electronics,55.0,3,0.0,165.0,123.75,41.25
+ORD100299,2023-12-04,Customer_68,East,"Monitor 24""",Electronics,130.0,8,0.0,1040.0,582.4,457.6
+ORD100493,2024-05-11,Customer_2,West,Pen Set,Stationery,5.0,1,0.0,5.0,4.0,1.0
+ORD100527,2024-09-17,Customer_188,Central,SSD 1TB,Electronics,110.0,2,0.0,220.0,147.4,72.6
+ORD101192,2024-12-23,Customer_129,West,Desk Lamp,Furniture,18.0,2,0.0,36.0,26.28,9.72
